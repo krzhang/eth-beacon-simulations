@@ -69,7 +69,7 @@ def timing_with_mean(faction, error_param, mean=0.5):
   """attests around 0.5 with error bar uniformly distributed within error_param"""
   timings = []
   for v in faction.validators:
-    timing = adjusted_random_time(mean, error_param)
+    timing = adjusted_random_time(mean - error_param, mean + error_param)
     timings.append((v, timing))
   return timings
 
