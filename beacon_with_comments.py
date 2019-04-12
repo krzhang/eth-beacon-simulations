@@ -1,5 +1,7 @@
 import logging
 import random
+logtoggle = 1 # set this to zero to turn off logging
+
 
 class Validator(object):
   def __init__(self, name, faction): # faction: byz/hon
@@ -59,7 +61,7 @@ def attestation_honest_majority(validator, time_current, factions, votes, delay_
     if (time_received < time_current):
       logstr += (" (counts)")
       seen_votes[vote] += 1
-    logging.info(logstr)
+    logger(logtoggle, logstr)
   if seen_votes[0] >= seen_votes[1]:
     vote = 0
   else:
@@ -82,16 +84,24 @@ def play(faction1, faction2):
     v = t[0]
     time = t[1]
     f = v.faction
-    logging.info("%s votes [t=%.3f]" % (v.name, time))
+    logger(logtoggle, "%s votes [t=%.3f]" % (v.name, time))
     vote = f.attestation_strat(v, time, factions, votes)
  #    v.vote = vote
  #   v.vote_time = t[1]
-    logging.info("%s votes %s" % (v.name, str(vote)))
+    logger(logtoggle, "%s votes %s" % (v.name, str(vote)))
 
     votes.append((v, time, vote))    
   return votes
 
-def main():
+def logger(toggle, log):
+  if (toggle == 0):
+    return
+  if (toggle == 1):
+    return logging.info(log)
+
+    
+
+def main(log=0): #log=1 for logging, log=0 for no lagging
   #format logging file
   if __name__ == "__main__":
     logging.basicConfig(level=logging.DEBUG, filename="logfile", filemode="a+",
@@ -104,5 +114,5 @@ def main():
   play(boo, poo)
 
 
-### Run ###
+######
 main()

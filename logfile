@@ -1,455 +1,450 @@
-2019-04-12 13:10:29,765 INFO     hello
-2019-04-12 13:11:20,977 INFO     hello
-2019-04-12 13:11:20,977 INFO     hello
-INFO:root:hello
-INFO:root:hello
-2019-04-12 13:17:08,243 INFO     Dishonest_3 votes [t=0.132]
-2019-04-12 13:17:08,243 INFO     Dishonest_3 votes 1
-2019-04-12 13:17:08,243 INFO     Dishonest_2 votes [t=0.165]
-2019-04-12 13:17:08,243 INFO     Dishonest_2 votes 1
-2019-04-12 13:17:08,244 INFO     Dishonest_7 votes [t=0.171]
-2019-04-12 13:17:08,244 INFO     Dishonest_7 votes 0
-2019-04-12 13:17:08,244 INFO     Dishonest_5 votes [t=0.216]
-2019-04-12 13:17:08,244 INFO     Dishonest_5 votes 0
-2019-04-12 13:17:08,244 INFO     Dishonest_4 votes [t=0.231]
-2019-04-12 13:17:08,244 INFO     Dishonest_4 votes 0
-2019-04-12 13:17:08,244 INFO     Dishonest_0 votes [t=0.258]
-2019-04-12 13:17:08,244 INFO     Dishonest_0 votes 1
-2019-04-12 13:17:08,244 INFO     Dishonest_6 votes [t=0.281]
-2019-04-12 13:17:08,244 INFO     Dishonest_6 votes 1
-2019-04-12 13:17:08,244 INFO     Dishonest_1 votes [t=0.284]
-2019-04-12 13:17:08,244 INFO     Dishonest_1 votes 0
-2019-04-12 13:17:08,244 INFO     Dishonest_9 votes [t=0.286]
-2019-04-12 13:17:08,244 INFO     Dishonest_9 votes 1
-2019-04-12 13:17:08,244 INFO     Dishonest_8 votes [t=0.290]
-2019-04-12 13:17:08,245 INFO     Dishonest_8 votes 0
-2019-04-12 13:17:08,245 INFO     Honest_15 votes [t=0.407]
-2019-04-12 13:17:08,245 INFO       Dishonest_3 voted for 1 [t=0.132; t_received=0.151] (counts)
-2019-04-12 13:17:08,245 INFO       Dishonest_2 voted for 1 [t=0.165; t_received=0.238] (counts)
-2019-04-12 13:17:08,245 INFO       Dishonest_7 voted for 0 [t=0.171; t_received=0.339] (counts)
-2019-04-12 13:17:08,245 INFO       Dishonest_5 voted for 0 [t=0.216; t_received=0.287] (counts)
-2019-04-12 13:17:08,245 INFO       Dishonest_4 voted for 0 [t=0.231; t_received=0.237] (counts)
-2019-04-12 13:17:08,245 INFO       Dishonest_0 voted for 1 [t=0.258; t_received=0.387] (counts)
-2019-04-12 13:17:08,245 INFO       Dishonest_6 voted for 1 [t=0.281; t_received=0.440]
-2019-04-12 13:17:08,245 INFO       Dishonest_1 voted for 0 [t=0.284; t_received=0.306] (counts)
-2019-04-12 13:17:08,245 INFO       Dishonest_9 voted for 1 [t=0.286; t_received=0.485]
-2019-04-12 13:17:08,245 INFO       Dishonest_8 voted for 0 [t=0.290; t_received=0.302] (counts)
-2019-04-12 13:17:08,245 INFO     Honest_15 votes 0
-2019-04-12 13:17:08,245 INFO     Honest_11 votes [t=0.418]
-2019-04-12 13:17:08,246 INFO       Dishonest_3 voted for 1 [t=0.132; t_received=0.295] (counts)
-2019-04-12 13:17:08,246 INFO       Dishonest_2 voted for 1 [t=0.165; t_received=0.463]
-2019-04-12 13:17:08,246 INFO       Dishonest_7 voted for 0 [t=0.171; t_received=0.267] (counts)
-2019-04-12 13:17:08,246 INFO       Dishonest_5 voted for 0 [t=0.216; t_received=0.245] (counts)
-2019-04-12 13:17:08,246 INFO       Dishonest_4 voted for 0 [t=0.231; t_received=0.521]
-2019-04-12 13:17:08,246 INFO       Dishonest_0 voted for 1 [t=0.258; t_received=0.260] (counts)
-2019-04-12 13:17:08,246 INFO       Dishonest_6 voted for 1 [t=0.281; t_received=0.331] (counts)
-2019-04-12 13:17:08,246 INFO       Dishonest_1 voted for 0 [t=0.284; t_received=0.354] (counts)
-2019-04-12 13:17:08,246 INFO       Dishonest_9 voted for 1 [t=0.286; t_received=0.465]
-2019-04-12 13:17:08,246 INFO       Dishonest_8 voted for 0 [t=0.290; t_received=0.392] (counts)
-2019-04-12 13:17:08,246 INFO       Honest_15 voted for 0 [t=0.407; t_received=0.657]
-2019-04-12 13:17:08,246 INFO     Honest_11 votes 0
-2019-04-12 13:17:08,246 INFO     Honest_14 votes [t=0.440]
-2019-04-12 13:17:08,246 INFO       Dishonest_3 voted for 1 [t=0.132; t_received=0.142] (counts)
-2019-04-12 13:17:08,246 INFO       Dishonest_2 voted for 1 [t=0.165; t_received=0.252] (counts)
-2019-04-12 13:17:08,247 INFO       Dishonest_7 voted for 0 [t=0.171; t_received=0.412] (counts)
-2019-04-12 13:17:08,247 INFO       Dishonest_5 voted for 0 [t=0.216; t_received=0.311] (counts)
-2019-04-12 13:17:08,247 INFO       Dishonest_4 voted for 0 [t=0.231; t_received=0.278] (counts)
-2019-04-12 13:17:08,247 INFO       Dishonest_0 voted for 1 [t=0.258; t_received=0.369] (counts)
-2019-04-12 13:17:08,247 INFO       Dishonest_6 voted for 1 [t=0.281; t_received=0.286] (counts)
-2019-04-12 13:17:08,247 INFO       Dishonest_1 voted for 0 [t=0.284; t_received=0.478]
-2019-04-12 13:17:08,247 INFO       Dishonest_9 voted for 1 [t=0.286; t_received=0.445]
-2019-04-12 13:17:08,247 INFO       Dishonest_8 voted for 0 [t=0.290; t_received=0.490]
-2019-04-12 13:17:08,247 INFO       Honest_15 voted for 0 [t=0.407; t_received=0.598]
-2019-04-12 13:17:08,247 INFO       Honest_11 voted for 0 [t=0.418; t_received=0.526]
-2019-04-12 13:17:08,247 INFO     Honest_14 votes 1
-2019-04-12 13:17:08,247 INFO     Honest_18 votes [t=0.444]
-2019-04-12 13:17:08,247 INFO       Dishonest_3 voted for 1 [t=0.132; t_received=0.136] (counts)
-2019-04-12 13:17:08,247 INFO       Dishonest_2 voted for 1 [t=0.165; t_received=0.206] (counts)
-2019-04-12 13:17:08,247 INFO       Dishonest_7 voted for 0 [t=0.171; t_received=0.462]
-2019-04-12 13:17:08,248 INFO       Dishonest_5 voted for 0 [t=0.216; t_received=0.255] (counts)
-2019-04-12 13:17:08,248 INFO       Dishonest_4 voted for 0 [t=0.231; t_received=0.439] (counts)
-2019-04-12 13:17:08,248 INFO       Dishonest_0 voted for 1 [t=0.258; t_received=0.351] (counts)
-2019-04-12 13:17:08,248 INFO       Dishonest_6 voted for 1 [t=0.281; t_received=0.452]
-2019-04-12 13:17:08,248 INFO       Dishonest_1 voted for 0 [t=0.284; t_received=0.432] (counts)
-2019-04-12 13:17:08,248 INFO       Dishonest_9 voted for 1 [t=0.286; t_received=0.323] (counts)
-2019-04-12 13:17:08,248 INFO       Dishonest_8 voted for 0 [t=0.290; t_received=0.448]
-2019-04-12 13:17:08,248 INFO       Honest_15 voted for 0 [t=0.407; t_received=0.706]
-2019-04-12 13:17:08,248 INFO       Honest_11 voted for 0 [t=0.418; t_received=0.705]
-2019-04-12 13:17:08,248 INFO       Honest_14 voted for 1 [t=0.440; t_received=0.698]
-2019-04-12 13:17:08,248 INFO     Honest_18 votes 1
-2019-04-12 13:17:08,248 INFO     Honest_12 votes [t=0.453]
-2019-04-12 13:17:08,248 INFO       Dishonest_3 voted for 1 [t=0.132; t_received=0.356] (counts)
-2019-04-12 13:17:08,248 INFO       Dishonest_2 voted for 1 [t=0.165; t_received=0.272] (counts)
-2019-04-12 13:17:08,248 INFO       Dishonest_7 voted for 0 [t=0.171; t_received=0.329] (counts)
-2019-04-12 13:17:08,248 INFO       Dishonest_5 voted for 0 [t=0.216; t_received=0.428] (counts)
-2019-04-12 13:17:08,249 INFO       Dishonest_4 voted for 0 [t=0.231; t_received=0.245] (counts)
-2019-04-12 13:17:08,249 INFO       Dishonest_0 voted for 1 [t=0.258; t_received=0.487]
-2019-04-12 13:17:08,249 INFO       Dishonest_6 voted for 1 [t=0.281; t_received=0.372] (counts)
-2019-04-12 13:17:08,249 INFO       Dishonest_1 voted for 0 [t=0.284; t_received=0.459]
-2019-04-12 13:17:08,249 INFO       Dishonest_9 voted for 1 [t=0.286; t_received=0.545]
-2019-04-12 13:17:08,249 INFO       Dishonest_8 voted for 0 [t=0.290; t_received=0.434] (counts)
-2019-04-12 13:17:08,249 INFO       Honest_15 voted for 0 [t=0.407; t_received=0.556]
-2019-04-12 13:17:08,249 INFO       Honest_11 voted for 0 [t=0.418; t_received=0.521]
-2019-04-12 13:17:08,249 INFO       Honest_14 voted for 1 [t=0.440; t_received=0.719]
-2019-04-12 13:17:08,249 INFO       Honest_18 voted for 1 [t=0.444; t_received=0.521]
-2019-04-12 13:17:08,249 INFO     Honest_12 votes 0
-2019-04-12 13:17:08,249 INFO     Honest_2 votes [t=0.466]
-2019-04-12 13:17:08,249 INFO       Dishonest_3 voted for 1 [t=0.132; t_received=0.207] (counts)
-2019-04-12 13:17:08,249 INFO       Dishonest_2 voted for 1 [t=0.165; t_received=0.407] (counts)
-2019-04-12 13:17:08,249 INFO       Dishonest_7 voted for 0 [t=0.171; t_received=0.200] (counts)
-2019-04-12 13:17:08,249 INFO       Dishonest_5 voted for 0 [t=0.216; t_received=0.445] (counts)
-2019-04-12 13:17:08,249 INFO       Dishonest_4 voted for 0 [t=0.231; t_received=0.308] (counts)
-2019-04-12 13:17:08,249 INFO       Dishonest_0 voted for 1 [t=0.258; t_received=0.547]
-2019-04-12 13:17:08,250 INFO       Dishonest_6 voted for 1 [t=0.281; t_received=0.434] (counts)
-2019-04-12 13:17:08,250 INFO       Dishonest_1 voted for 0 [t=0.284; t_received=0.346] (counts)
-2019-04-12 13:17:08,250 INFO       Dishonest_9 voted for 1 [t=0.286; t_received=0.483]
-2019-04-12 13:17:08,250 INFO       Dishonest_8 voted for 0 [t=0.290; t_received=0.508]
-2019-04-12 13:17:08,250 INFO       Honest_15 voted for 0 [t=0.407; t_received=0.696]
-2019-04-12 13:17:08,250 INFO       Honest_11 voted for 0 [t=0.418; t_received=0.457] (counts)
-2019-04-12 13:17:08,250 INFO       Honest_14 voted for 1 [t=0.440; t_received=0.643]
-2019-04-12 13:17:08,250 INFO       Honest_18 voted for 1 [t=0.444; t_received=0.484]
-2019-04-12 13:17:08,250 INFO       Honest_12 voted for 0 [t=0.453; t_received=0.725]
-2019-04-12 13:17:08,250 INFO     Honest_2 votes 0
-2019-04-12 13:17:08,250 INFO     Honest_3 votes [t=0.467]
-2019-04-12 13:17:08,250 INFO       Dishonest_3 voted for 1 [t=0.132; t_received=0.305] (counts)
-2019-04-12 13:17:08,250 INFO       Dishonest_2 voted for 1 [t=0.165; t_received=0.199] (counts)
-2019-04-12 13:17:08,250 INFO       Dishonest_7 voted for 0 [t=0.171; t_received=0.185] (counts)
-2019-04-12 13:17:08,250 INFO       Dishonest_5 voted for 0 [t=0.216; t_received=0.250] (counts)
-2019-04-12 13:17:08,250 INFO       Dishonest_4 voted for 0 [t=0.231; t_received=0.306] (counts)
-2019-04-12 13:17:08,250 INFO       Dishonest_0 voted for 1 [t=0.258; t_received=0.357] (counts)
-2019-04-12 13:17:08,250 INFO       Dishonest_6 voted for 1 [t=0.281; t_received=0.310] (counts)
-2019-04-12 13:17:08,250 INFO       Dishonest_1 voted for 0 [t=0.284; t_received=0.546]
-2019-04-12 13:17:08,251 INFO       Dishonest_9 voted for 1 [t=0.286; t_received=0.430] (counts)
-2019-04-12 13:17:08,251 INFO       Dishonest_8 voted for 0 [t=0.290; t_received=0.439] (counts)
-2019-04-12 13:17:08,251 INFO       Honest_15 voted for 0 [t=0.407; t_received=0.504]
-2019-04-12 13:17:08,251 INFO       Honest_11 voted for 0 [t=0.418; t_received=0.659]
-2019-04-12 13:17:08,251 INFO       Honest_14 voted for 1 [t=0.440; t_received=0.502]
-2019-04-12 13:17:08,251 INFO       Honest_18 voted for 1 [t=0.444; t_received=0.541]
-2019-04-12 13:17:08,251 INFO       Honest_12 voted for 0 [t=0.453; t_received=0.459] (counts)
-2019-04-12 13:17:08,251 INFO       Honest_2 voted for 0 [t=0.466; t_received=0.565]
-2019-04-12 13:17:08,251 INFO     Honest_3 votes 0
-2019-04-12 13:17:08,251 INFO     Honest_9 votes [t=0.468]
-2019-04-12 13:17:08,251 INFO       Dishonest_3 voted for 1 [t=0.132; t_received=0.140] (counts)
-2019-04-12 13:17:08,251 INFO       Dishonest_2 voted for 1 [t=0.165; t_received=0.170] (counts)
-2019-04-12 13:17:08,251 INFO       Dishonest_7 voted for 0 [t=0.171; t_received=0.352] (counts)
-2019-04-12 13:17:08,251 INFO       Dishonest_5 voted for 0 [t=0.216; t_received=0.273] (counts)
-2019-04-12 13:17:08,251 INFO       Dishonest_4 voted for 0 [t=0.231; t_received=0.344] (counts)
-2019-04-12 13:17:08,251 INFO       Dishonest_0 voted for 1 [t=0.258; t_received=0.433] (counts)
-2019-04-12 13:17:08,251 INFO       Dishonest_6 voted for 1 [t=0.281; t_received=0.310] (counts)
-2019-04-12 13:17:08,251 INFO       Dishonest_1 voted for 0 [t=0.284; t_received=0.429] (counts)
-2019-04-12 13:17:08,251 INFO       Dishonest_9 voted for 1 [t=0.286; t_received=0.307] (counts)
-2019-04-12 13:17:08,251 INFO       Dishonest_8 voted for 0 [t=0.290; t_received=0.316] (counts)
-2019-04-12 13:17:08,252 INFO       Honest_15 voted for 0 [t=0.407; t_received=0.678]
-2019-04-12 13:17:08,252 INFO       Honest_11 voted for 0 [t=0.418; t_received=0.492]
-2019-04-12 13:17:08,252 INFO       Honest_14 voted for 1 [t=0.440; t_received=0.682]
-2019-04-12 13:17:08,252 INFO       Honest_18 voted for 1 [t=0.444; t_received=0.549]
-2019-04-12 13:17:08,252 INFO       Honest_12 voted for 0 [t=0.453; t_received=0.535]
-2019-04-12 13:17:08,252 INFO       Honest_2 voted for 0 [t=0.466; t_received=0.507]
-2019-04-12 13:17:08,252 INFO       Honest_3 voted for 0 [t=0.467; t_received=0.680]
-2019-04-12 13:17:08,252 INFO     Honest_9 votes 0
-2019-04-12 13:17:08,252 INFO     Honest_7 votes [t=0.480]
-2019-04-12 13:17:08,252 INFO       Dishonest_3 voted for 1 [t=0.132; t_received=0.417] (counts)
-2019-04-12 13:17:08,252 INFO       Dishonest_2 voted for 1 [t=0.165; t_received=0.177] (counts)
-2019-04-12 13:17:08,252 INFO       Dishonest_7 voted for 0 [t=0.171; t_received=0.221] (counts)
-2019-04-12 13:17:08,252 INFO       Dishonest_5 voted for 0 [t=0.216; t_received=0.474] (counts)
-2019-04-12 13:17:08,252 INFO       Dishonest_4 voted for 0 [t=0.231; t_received=0.432] (counts)
-2019-04-12 13:17:08,252 INFO       Dishonest_0 voted for 1 [t=0.258; t_received=0.271] (counts)
-2019-04-12 13:17:08,252 INFO       Dishonest_6 voted for 1 [t=0.281; t_received=0.509]
-2019-04-12 13:17:08,252 INFO       Dishonest_1 voted for 0 [t=0.284; t_received=0.552]
-2019-04-12 13:17:08,252 INFO       Dishonest_9 voted for 1 [t=0.286; t_received=0.443] (counts)
-2019-04-12 13:17:08,253 INFO       Dishonest_8 voted for 0 [t=0.290; t_received=0.320] (counts)
-2019-04-12 13:17:08,253 INFO       Honest_15 voted for 0 [t=0.407; t_received=0.706]
-2019-04-12 13:17:08,253 INFO       Honest_11 voted for 0 [t=0.418; t_received=0.686]
-2019-04-12 13:17:08,253 INFO       Honest_14 voted for 1 [t=0.440; t_received=0.699]
-2019-04-12 13:17:08,253 INFO       Honest_18 voted for 1 [t=0.444; t_received=0.622]
-2019-04-12 13:17:08,253 INFO       Honest_12 voted for 0 [t=0.453; t_received=0.524]
-2019-04-12 13:17:08,253 INFO       Honest_2 voted for 0 [t=0.466; t_received=0.560]
-2019-04-12 13:17:08,253 INFO       Honest_3 voted for 0 [t=0.467; t_received=0.593]
-2019-04-12 13:17:08,253 INFO       Honest_9 voted for 0 [t=0.468; t_received=0.528]
-2019-04-12 13:17:08,253 INFO     Honest_7 votes 0
-2019-04-12 13:17:08,253 INFO     Honest_13 votes [t=0.492]
-2019-04-12 13:17:08,253 INFO       Dishonest_3 voted for 1 [t=0.132; t_received=0.144] (counts)
-2019-04-12 13:17:08,253 INFO       Dishonest_2 voted for 1 [t=0.165; t_received=0.294] (counts)
-2019-04-12 13:17:08,253 INFO       Dishonest_7 voted for 0 [t=0.171; t_received=0.281] (counts)
-2019-04-12 13:17:08,253 INFO       Dishonest_5 voted for 0 [t=0.216; t_received=0.335] (counts)
-2019-04-12 13:17:08,254 INFO       Dishonest_4 voted for 0 [t=0.231; t_received=0.339] (counts)
-2019-04-12 13:17:08,254 INFO       Dishonest_0 voted for 1 [t=0.258; t_received=0.428] (counts)
-2019-04-12 13:17:08,254 INFO       Dishonest_6 voted for 1 [t=0.281; t_received=0.411] (counts)
-2019-04-12 13:17:08,254 INFO       Dishonest_1 voted for 0 [t=0.284; t_received=0.308] (counts)
-2019-04-12 13:17:08,254 INFO       Dishonest_9 voted for 1 [t=0.286; t_received=0.480] (counts)
-2019-04-12 13:17:08,254 INFO       Dishonest_8 voted for 0 [t=0.290; t_received=0.526]
-2019-04-12 13:17:08,254 INFO       Honest_15 voted for 0 [t=0.407; t_received=0.559]
-2019-04-12 13:17:08,254 INFO       Honest_11 voted for 0 [t=0.418; t_received=0.528]
-2019-04-12 13:17:08,254 INFO       Honest_14 voted for 1 [t=0.440; t_received=0.684]
-2019-04-12 13:17:08,254 INFO       Honest_18 voted for 1 [t=0.444; t_received=0.727]
-2019-04-12 13:17:08,254 INFO       Honest_12 voted for 0 [t=0.453; t_received=0.656]
-2019-04-12 13:17:08,254 INFO       Honest_2 voted for 0 [t=0.466; t_received=0.520]
-2019-04-12 13:17:08,254 INFO       Honest_3 voted for 0 [t=0.467; t_received=0.515]
-2019-04-12 13:17:08,254 INFO       Honest_9 voted for 0 [t=0.468; t_received=0.743]
-2019-04-12 13:17:08,254 INFO       Honest_7 voted for 0 [t=0.480; t_received=0.661]
-2019-04-12 13:17:08,254 INFO     Honest_13 votes 1
-2019-04-12 13:17:08,254 INFO     Honest_4 votes [t=0.501]
-2019-04-12 13:17:08,254 INFO       Dishonest_3 voted for 1 [t=0.132; t_received=0.180] (counts)
-2019-04-12 13:17:08,254 INFO       Dishonest_2 voted for 1 [t=0.165; t_received=0.277] (counts)
-2019-04-12 13:17:08,255 INFO       Dishonest_7 voted for 0 [t=0.171; t_received=0.457] (counts)
-2019-04-12 13:17:08,255 INFO       Dishonest_5 voted for 0 [t=0.216; t_received=0.498] (counts)
-2019-04-12 13:17:08,255 INFO       Dishonest_4 voted for 0 [t=0.231; t_received=0.452] (counts)
-2019-04-12 13:17:08,255 INFO       Dishonest_0 voted for 1 [t=0.258; t_received=0.498] (counts)
-2019-04-12 13:17:08,255 INFO       Dishonest_6 voted for 1 [t=0.281; t_received=0.532]
-2019-04-12 13:17:08,255 INFO       Dishonest_1 voted for 0 [t=0.284; t_received=0.486] (counts)
-2019-04-12 13:17:08,255 INFO       Dishonest_9 voted for 1 [t=0.286; t_received=0.365] (counts)
-2019-04-12 13:17:08,255 INFO       Dishonest_8 voted for 0 [t=0.290; t_received=0.582]
-2019-04-12 13:17:08,255 INFO       Honest_15 voted for 0 [t=0.407; t_received=0.563]
-2019-04-12 13:17:08,255 INFO       Honest_11 voted for 0 [t=0.418; t_received=0.714]
-2019-04-12 13:17:08,255 INFO       Honest_14 voted for 1 [t=0.440; t_received=0.466] (counts)
-2019-04-12 13:17:08,255 INFO       Honest_18 voted for 1 [t=0.444; t_received=0.456] (counts)
-2019-04-12 13:17:08,255 INFO       Honest_12 voted for 0 [t=0.453; t_received=0.644]
-2019-04-12 13:17:08,255 INFO       Honest_2 voted for 0 [t=0.466; t_received=0.658]
-2019-04-12 13:17:08,255 INFO       Honest_3 voted for 0 [t=0.467; t_received=0.581]
-2019-04-12 13:17:08,255 INFO       Honest_9 voted for 0 [t=0.468; t_received=0.637]
-2019-04-12 13:17:08,255 INFO       Honest_7 voted for 0 [t=0.480; t_received=0.574]
-2019-04-12 13:17:08,255 INFO       Honest_13 voted for 1 [t=0.492; t_received=0.610]
-2019-04-12 13:17:08,256 INFO     Honest_4 votes 1
-2019-04-12 13:17:08,256 INFO     Honest_1 votes [t=0.503]
-2019-04-12 13:17:08,256 INFO       Dishonest_3 voted for 1 [t=0.132; t_received=0.261] (counts)
-2019-04-12 13:17:08,256 INFO       Dishonest_2 voted for 1 [t=0.165; t_received=0.446] (counts)
-2019-04-12 13:17:08,256 INFO       Dishonest_7 voted for 0 [t=0.171; t_received=0.211] (counts)
-2019-04-12 13:17:08,256 INFO       Dishonest_5 voted for 0 [t=0.216; t_received=0.298] (counts)
-2019-04-12 13:17:08,256 INFO       Dishonest_4 voted for 0 [t=0.231; t_received=0.454] (counts)
-2019-04-12 13:17:08,256 INFO       Dishonest_0 voted for 1 [t=0.258; t_received=0.497] (counts)
-2019-04-12 13:17:08,256 INFO       Dishonest_6 voted for 1 [t=0.281; t_received=0.573]
-2019-04-12 13:17:08,256 INFO       Dishonest_1 voted for 0 [t=0.284; t_received=0.523]
-2019-04-12 13:17:08,257 INFO       Dishonest_9 voted for 1 [t=0.286; t_received=0.336] (counts)
-2019-04-12 13:17:08,257 INFO       Dishonest_8 voted for 0 [t=0.290; t_received=0.496] (counts)
-2019-04-12 13:17:08,258 INFO       Honest_15 voted for 0 [t=0.407; t_received=0.631]
-2019-04-12 13:17:08,258 INFO       Honest_11 voted for 0 [t=0.418; t_received=0.713]
-2019-04-12 13:17:08,258 INFO       Honest_14 voted for 1 [t=0.440; t_received=0.705]
-2019-04-12 13:17:08,258 INFO       Honest_18 voted for 1 [t=0.444; t_received=0.689]
-2019-04-12 13:17:08,258 INFO       Honest_12 voted for 0 [t=0.453; t_received=0.514]
-2019-04-12 13:17:08,272 INFO       Honest_2 voted for 0 [t=0.466; t_received=0.709]
-2019-04-12 13:17:08,272 INFO       Honest_3 voted for 0 [t=0.467; t_received=0.621]
-2019-04-12 13:17:08,272 INFO       Honest_9 voted for 0 [t=0.468; t_received=0.562]
-2019-04-12 13:17:08,273 INFO       Honest_7 voted for 0 [t=0.480; t_received=0.535]
-2019-04-12 13:17:08,273 INFO       Honest_13 voted for 1 [t=0.492; t_received=0.734]
-2019-04-12 13:17:08,273 INFO       Honest_4 voted for 1 [t=0.501; t_received=0.560]
-2019-04-12 13:17:08,273 INFO     Honest_1 votes 0
-2019-04-12 13:17:08,273 INFO     Honest_8 votes [t=0.510]
-2019-04-12 13:17:08,273 INFO       Dishonest_3 voted for 1 [t=0.132; t_received=0.310] (counts)
-2019-04-12 13:17:08,273 INFO       Dishonest_2 voted for 1 [t=0.165; t_received=0.198] (counts)
-2019-04-12 13:17:08,273 INFO       Dishonest_7 voted for 0 [t=0.171; t_received=0.320] (counts)
-2019-04-12 13:17:08,273 INFO       Dishonest_5 voted for 0 [t=0.216; t_received=0.498] (counts)
-2019-04-12 13:17:08,273 INFO       Dishonest_4 voted for 0 [t=0.231; t_received=0.355] (counts)
-2019-04-12 13:17:08,273 INFO       Dishonest_0 voted for 1 [t=0.258; t_received=0.452] (counts)
-2019-04-12 13:17:08,273 INFO       Dishonest_6 voted for 1 [t=0.281; t_received=0.530]
-2019-04-12 13:17:08,273 INFO       Dishonest_1 voted for 0 [t=0.284; t_received=0.350] (counts)
-2019-04-12 13:17:08,273 INFO       Dishonest_9 voted for 1 [t=0.286; t_received=0.342] (counts)
-2019-04-12 13:17:08,274 INFO       Dishonest_8 voted for 0 [t=0.290; t_received=0.322] (counts)
-2019-04-12 13:17:08,274 INFO       Honest_15 voted for 0 [t=0.407; t_received=0.469] (counts)
-2019-04-12 13:17:08,274 INFO       Honest_11 voted for 0 [t=0.418; t_received=0.537]
-2019-04-12 13:17:08,274 INFO       Honest_14 voted for 1 [t=0.440; t_received=0.481] (counts)
-2019-04-12 13:17:08,274 INFO       Honest_18 voted for 1 [t=0.444; t_received=0.575]
-2019-04-12 13:17:08,274 INFO       Honest_12 voted for 0 [t=0.453; t_received=0.556]
-2019-04-12 13:17:08,274 INFO       Honest_2 voted for 0 [t=0.466; t_received=0.613]
-2019-04-12 13:17:08,274 INFO       Honest_3 voted for 0 [t=0.467; t_received=0.566]
-2019-04-12 13:17:08,274 INFO       Honest_9 voted for 0 [t=0.468; t_received=0.605]
-2019-04-12 13:17:08,274 INFO       Honest_7 voted for 0 [t=0.480; t_received=0.595]
-2019-04-12 13:17:08,274 INFO       Honest_13 voted for 1 [t=0.492; t_received=0.726]
-2019-04-12 13:17:08,274 INFO       Honest_4 voted for 1 [t=0.501; t_received=0.729]
-2019-04-12 13:17:08,274 INFO       Honest_1 voted for 0 [t=0.503; t_received=0.670]
-2019-04-12 13:17:08,274 INFO     Honest_8 votes 0
-2019-04-12 13:17:08,274 INFO     Honest_0 votes [t=0.527]
-2019-04-12 13:17:08,274 INFO       Dishonest_3 voted for 1 [t=0.132; t_received=0.407] (counts)
-2019-04-12 13:17:08,274 INFO       Dishonest_2 voted for 1 [t=0.165; t_received=0.213] (counts)
-2019-04-12 13:17:08,274 INFO       Dishonest_7 voted for 0 [t=0.171; t_received=0.369] (counts)
-2019-04-12 13:17:08,274 INFO       Dishonest_5 voted for 0 [t=0.216; t_received=0.363] (counts)
-2019-04-12 13:17:08,274 INFO       Dishonest_4 voted for 0 [t=0.231; t_received=0.351] (counts)
-2019-04-12 13:17:08,274 INFO       Dishonest_0 voted for 1 [t=0.258; t_received=0.333] (counts)
-2019-04-12 13:17:08,274 INFO       Dishonest_6 voted for 1 [t=0.281; t_received=0.421] (counts)
-2019-04-12 13:17:08,274 INFO       Dishonest_1 voted for 0 [t=0.284; t_received=0.395] (counts)
-2019-04-12 13:17:08,275 INFO       Dishonest_9 voted for 1 [t=0.286; t_received=0.405] (counts)
-2019-04-12 13:17:08,275 INFO       Dishonest_8 voted for 0 [t=0.290; t_received=0.544]
-2019-04-12 13:17:08,275 INFO       Honest_15 voted for 0 [t=0.407; t_received=0.696]
-2019-04-12 13:17:08,275 INFO       Honest_11 voted for 0 [t=0.418; t_received=0.498] (counts)
-2019-04-12 13:17:08,275 INFO       Honest_14 voted for 1 [t=0.440; t_received=0.681]
-2019-04-12 13:17:08,275 INFO       Honest_18 voted for 1 [t=0.444; t_received=0.507] (counts)
-2019-04-12 13:17:08,275 INFO       Honest_12 voted for 0 [t=0.453; t_received=0.459] (counts)
-2019-04-12 13:17:08,275 INFO       Honest_2 voted for 0 [t=0.466; t_received=0.751]
-2019-04-12 13:17:08,275 INFO       Honest_3 voted for 0 [t=0.467; t_received=0.565]
-2019-04-12 13:17:08,275 INFO       Honest_9 voted for 0 [t=0.468; t_received=0.758]
-2019-04-12 13:17:08,275 INFO       Honest_7 voted for 0 [t=0.480; t_received=0.543]
-2019-04-12 13:17:08,275 INFO       Honest_13 voted for 1 [t=0.492; t_received=0.599]
-2019-04-12 13:17:08,275 INFO       Honest_4 voted for 1 [t=0.501; t_received=0.725]
-2019-04-12 13:17:08,275 INFO       Honest_1 voted for 0 [t=0.503; t_received=0.589]
-2019-04-12 13:17:08,275 INFO       Honest_8 voted for 0 [t=0.510; t_received=0.512] (counts)
-2019-04-12 13:17:08,275 INFO     Honest_0 votes 0
-2019-04-12 13:17:08,275 INFO     Honest_19 votes [t=0.531]
-2019-04-12 13:17:08,275 INFO       Dishonest_3 voted for 1 [t=0.132; t_received=0.200] (counts)
-2019-04-12 13:17:08,275 INFO       Dishonest_2 voted for 1 [t=0.165; t_received=0.313] (counts)
-2019-04-12 13:17:08,275 INFO       Dishonest_7 voted for 0 [t=0.171; t_received=0.376] (counts)
-2019-04-12 13:17:08,275 INFO       Dishonest_5 voted for 0 [t=0.216; t_received=0.238] (counts)
-2019-04-12 13:17:08,275 INFO       Dishonest_4 voted for 0 [t=0.231; t_received=0.471] (counts)
-2019-04-12 13:17:08,275 INFO       Dishonest_0 voted for 1 [t=0.258; t_received=0.415] (counts)
-2019-04-12 13:17:08,276 INFO       Dishonest_6 voted for 1 [t=0.281; t_received=0.532]
-2019-04-12 13:17:08,276 INFO       Dishonest_1 voted for 0 [t=0.284; t_received=0.505] (counts)
-2019-04-12 13:17:08,276 INFO       Dishonest_9 voted for 1 [t=0.286; t_received=0.394] (counts)
-2019-04-12 13:17:08,276 INFO       Dishonest_8 voted for 0 [t=0.290; t_received=0.473] (counts)
-2019-04-12 13:17:08,276 INFO       Honest_15 voted for 0 [t=0.407; t_received=0.584]
-2019-04-12 13:17:08,276 INFO       Honest_11 voted for 0 [t=0.418; t_received=0.658]
-2019-04-12 13:17:08,276 INFO       Honest_14 voted for 1 [t=0.440; t_received=0.619]
-2019-04-12 13:17:08,276 INFO       Honest_18 voted for 1 [t=0.444; t_received=0.614]
-2019-04-12 13:17:08,276 INFO       Honest_12 voted for 0 [t=0.453; t_received=0.677]
-2019-04-12 13:17:08,276 INFO       Honest_2 voted for 0 [t=0.466; t_received=0.638]
-2019-04-12 13:17:08,276 INFO       Honest_3 voted for 0 [t=0.467; t_received=0.698]
-2019-04-12 13:17:08,276 INFO       Honest_9 voted for 0 [t=0.468; t_received=0.529] (counts)
-2019-04-12 13:17:08,276 INFO       Honest_7 voted for 0 [t=0.480; t_received=0.580]
-2019-04-12 13:17:08,276 INFO       Honest_13 voted for 1 [t=0.492; t_received=0.717]
-2019-04-12 13:17:08,276 INFO       Honest_4 voted for 1 [t=0.501; t_received=0.710]
-2019-04-12 13:17:08,276 INFO       Honest_1 voted for 0 [t=0.503; t_received=0.578]
-2019-04-12 13:17:08,276 INFO       Honest_8 voted for 0 [t=0.510; t_received=0.577]
-2019-04-12 13:17:08,276 INFO       Honest_0 voted for 0 [t=0.527; t_received=0.573]
-2019-04-12 13:17:08,276 INFO     Honest_19 votes 0
-2019-04-12 13:17:08,276 INFO     Honest_10 votes [t=0.535]
-2019-04-12 13:17:08,276 INFO       Dishonest_3 voted for 1 [t=0.132; t_received=0.167] (counts)
-2019-04-12 13:17:08,276 INFO       Dishonest_2 voted for 1 [t=0.165; t_received=0.366] (counts)
-2019-04-12 13:17:08,276 INFO       Dishonest_7 voted for 0 [t=0.171; t_received=0.249] (counts)
-2019-04-12 13:17:08,277 INFO       Dishonest_5 voted for 0 [t=0.216; t_received=0.305] (counts)
-2019-04-12 13:17:08,277 INFO       Dishonest_4 voted for 0 [t=0.231; t_received=0.401] (counts)
-2019-04-12 13:17:08,277 INFO       Dishonest_0 voted for 1 [t=0.258; t_received=0.309] (counts)
-2019-04-12 13:17:08,277 INFO       Dishonest_6 voted for 1 [t=0.281; t_received=0.400] (counts)
-2019-04-12 13:17:08,277 INFO       Dishonest_1 voted for 0 [t=0.284; t_received=0.322] (counts)
-2019-04-12 13:17:08,277 INFO       Dishonest_9 voted for 1 [t=0.286; t_received=0.509] (counts)
-2019-04-12 13:17:08,277 INFO       Dishonest_8 voted for 0 [t=0.290; t_received=0.571]
-2019-04-12 13:17:08,277 INFO       Honest_15 voted for 0 [t=0.407; t_received=0.646]
-2019-04-12 13:17:08,277 INFO       Honest_11 voted for 0 [t=0.418; t_received=0.680]
-2019-04-12 13:17:08,277 INFO       Honest_14 voted for 1 [t=0.440; t_received=0.609]
-2019-04-12 13:17:08,277 INFO       Honest_18 voted for 1 [t=0.444; t_received=0.483] (counts)
-2019-04-12 13:17:08,277 INFO       Honest_12 voted for 0 [t=0.453; t_received=0.714]
-2019-04-12 13:17:08,277 INFO       Honest_2 voted for 0 [t=0.466; t_received=0.709]
-2019-04-12 13:17:08,277 INFO       Honest_3 voted for 0 [t=0.467; t_received=0.731]
-2019-04-12 13:17:08,277 INFO       Honest_9 voted for 0 [t=0.468; t_received=0.526] (counts)
-2019-04-12 13:17:08,277 INFO       Honest_7 voted for 0 [t=0.480; t_received=0.553]
-2019-04-12 13:17:08,277 INFO       Honest_13 voted for 1 [t=0.492; t_received=0.618]
-2019-04-12 13:17:08,278 INFO       Honest_4 voted for 1 [t=0.501; t_received=0.648]
-2019-04-12 13:17:08,278 INFO       Honest_1 voted for 0 [t=0.503; t_received=0.569]
-2019-04-12 13:17:08,278 INFO       Honest_8 voted for 0 [t=0.510; t_received=0.748]
-2019-04-12 13:17:08,278 INFO       Honest_0 voted for 0 [t=0.527; t_received=0.791]
-2019-04-12 13:17:08,278 INFO       Honest_19 voted for 0 [t=0.531; t_received=0.599]
-2019-04-12 13:17:08,278 INFO     Honest_10 votes 1
-2019-04-12 13:17:08,278 INFO     Honest_16 votes [t=0.546]
-2019-04-12 13:17:08,278 INFO       Dishonest_3 voted for 1 [t=0.132; t_received=0.424] (counts)
-2019-04-12 13:17:08,278 INFO       Dishonest_2 voted for 1 [t=0.165; t_received=0.354] (counts)
-2019-04-12 13:17:08,278 INFO       Dishonest_7 voted for 0 [t=0.171; t_received=0.321] (counts)
-2019-04-12 13:17:08,278 INFO       Dishonest_5 voted for 0 [t=0.216; t_received=0.248] (counts)
-2019-04-12 13:17:08,278 INFO       Dishonest_4 voted for 0 [t=0.231; t_received=0.261] (counts)
-2019-04-12 13:17:08,278 INFO       Dishonest_0 voted for 1 [t=0.258; t_received=0.532] (counts)
-2019-04-12 13:17:08,278 INFO       Dishonest_6 voted for 1 [t=0.281; t_received=0.428] (counts)
-2019-04-12 13:17:08,278 INFO       Dishonest_1 voted for 0 [t=0.284; t_received=0.332] (counts)
-2019-04-12 13:17:08,278 INFO       Dishonest_9 voted for 1 [t=0.286; t_received=0.297] (counts)
-2019-04-12 13:17:08,278 INFO       Dishonest_8 voted for 0 [t=0.290; t_received=0.479] (counts)
-2019-04-12 13:17:08,278 INFO       Honest_15 voted for 0 [t=0.407; t_received=0.595]
-2019-04-12 13:17:08,278 INFO       Honest_11 voted for 0 [t=0.418; t_received=0.492] (counts)
-2019-04-12 13:17:08,278 INFO       Honest_14 voted for 1 [t=0.440; t_received=0.469] (counts)
-2019-04-12 13:17:08,278 INFO       Honest_18 voted for 1 [t=0.444; t_received=0.608]
-2019-04-12 13:17:08,278 INFO       Honest_12 voted for 0 [t=0.453; t_received=0.567]
-2019-04-12 13:17:08,279 INFO       Honest_2 voted for 0 [t=0.466; t_received=0.522] (counts)
-2019-04-12 13:17:08,279 INFO       Honest_3 voted for 0 [t=0.467; t_received=0.731]
-2019-04-12 13:17:08,279 INFO       Honest_9 voted for 0 [t=0.468; t_received=0.755]
-2019-04-12 13:17:08,279 INFO       Honest_7 voted for 0 [t=0.480; t_received=0.485] (counts)
-2019-04-12 13:17:08,279 INFO       Honest_13 voted for 1 [t=0.492; t_received=0.504] (counts)
-2019-04-12 13:17:08,279 INFO       Honest_4 voted for 1 [t=0.501; t_received=0.544] (counts)
-2019-04-12 13:17:08,279 INFO       Honest_1 voted for 0 [t=0.503; t_received=0.560]
-2019-04-12 13:17:08,279 INFO       Honest_8 voted for 0 [t=0.510; t_received=0.650]
-2019-04-12 13:17:08,279 INFO       Honest_0 voted for 0 [t=0.527; t_received=0.740]
-2019-04-12 13:17:08,279 INFO       Honest_19 voted for 0 [t=0.531; t_received=0.603]
-2019-04-12 13:17:08,279 INFO       Honest_10 voted for 1 [t=0.535; t_received=0.746]
-2019-04-12 13:17:08,279 INFO     Honest_16 votes 0
-2019-04-12 13:17:08,279 INFO     Honest_6 votes [t=0.566]
-2019-04-12 13:17:08,279 INFO       Dishonest_3 voted for 1 [t=0.132; t_received=0.343] (counts)
-2019-04-12 13:17:08,279 INFO       Dishonest_2 voted for 1 [t=0.165; t_received=0.337] (counts)
-2019-04-12 13:17:08,279 INFO       Dishonest_7 voted for 0 [t=0.171; t_received=0.315] (counts)
-2019-04-12 13:17:08,279 INFO       Dishonest_5 voted for 0 [t=0.216; t_received=0.281] (counts)
-2019-04-12 13:17:08,279 INFO       Dishonest_4 voted for 0 [t=0.231; t_received=0.315] (counts)
-2019-04-12 13:17:08,279 INFO       Dishonest_0 voted for 1 [t=0.258; t_received=0.317] (counts)
-2019-04-12 13:17:08,279 INFO       Dishonest_6 voted for 1 [t=0.281; t_received=0.386] (counts)
-2019-04-12 13:17:08,279 INFO       Dishonest_1 voted for 0 [t=0.284; t_received=0.467] (counts)
-2019-04-12 13:17:08,279 INFO       Dishonest_9 voted for 1 [t=0.286; t_received=0.417] (counts)
-2019-04-12 13:17:08,279 INFO       Dishonest_8 voted for 0 [t=0.290; t_received=0.465] (counts)
-2019-04-12 13:17:08,280 INFO       Honest_15 voted for 0 [t=0.407; t_received=0.624]
-2019-04-12 13:17:08,280 INFO       Honest_11 voted for 0 [t=0.418; t_received=0.567]
-2019-04-12 13:17:08,280 INFO       Honest_14 voted for 1 [t=0.440; t_received=0.590]
-2019-04-12 13:17:08,280 INFO       Honest_18 voted for 1 [t=0.444; t_received=0.550] (counts)
-2019-04-12 13:17:08,280 INFO       Honest_12 voted for 0 [t=0.453; t_received=0.689]
-2019-04-12 13:17:08,280 INFO       Honest_2 voted for 0 [t=0.466; t_received=0.518] (counts)
-2019-04-12 13:17:08,280 INFO       Honest_3 voted for 0 [t=0.467; t_received=0.592]
-2019-04-12 13:17:08,280 INFO       Honest_9 voted for 0 [t=0.468; t_received=0.753]
-2019-04-12 13:17:08,280 INFO       Honest_7 voted for 0 [t=0.480; t_received=0.502] (counts)
-2019-04-12 13:17:08,280 INFO       Honest_13 voted for 1 [t=0.492; t_received=0.669]
-2019-04-12 13:17:08,280 INFO       Honest_4 voted for 1 [t=0.501; t_received=0.676]
-2019-04-12 13:17:08,280 INFO       Honest_1 voted for 0 [t=0.503; t_received=0.538] (counts)
-2019-04-12 13:17:08,280 INFO       Honest_8 voted for 0 [t=0.510; t_received=0.808]
-2019-04-12 13:17:08,280 INFO       Honest_0 voted for 0 [t=0.527; t_received=0.793]
-2019-04-12 13:17:08,280 INFO       Honest_19 voted for 0 [t=0.531; t_received=0.785]
-2019-04-12 13:17:08,280 INFO       Honest_10 voted for 1 [t=0.535; t_received=0.717]
-2019-04-12 13:17:08,280 INFO       Honest_16 voted for 0 [t=0.546; t_received=0.782]
-2019-04-12 13:17:08,280 INFO     Honest_6 votes 0
-2019-04-12 13:17:08,280 INFO     Honest_17 votes [t=0.590]
-2019-04-12 13:17:08,280 INFO       Dishonest_3 voted for 1 [t=0.132; t_received=0.173] (counts)
-2019-04-12 13:17:08,280 INFO       Dishonest_2 voted for 1 [t=0.165; t_received=0.342] (counts)
-2019-04-12 13:17:08,280 INFO       Dishonest_7 voted for 0 [t=0.171; t_received=0.415] (counts)
-2019-04-12 13:17:08,280 INFO       Dishonest_5 voted for 0 [t=0.216; t_received=0.326] (counts)
-2019-04-12 13:17:08,281 INFO       Dishonest_4 voted for 0 [t=0.231; t_received=0.468] (counts)
-2019-04-12 13:17:08,281 INFO       Dishonest_0 voted for 1 [t=0.258; t_received=0.378] (counts)
-2019-04-12 13:17:08,281 INFO       Dishonest_6 voted for 1 [t=0.281; t_received=0.447] (counts)
-2019-04-12 13:17:08,281 INFO       Dishonest_1 voted for 0 [t=0.284; t_received=0.342] (counts)
-2019-04-12 13:17:08,281 INFO       Dishonest_9 voted for 1 [t=0.286; t_received=0.322] (counts)
-2019-04-12 13:17:08,281 INFO       Dishonest_8 voted for 0 [t=0.290; t_received=0.479] (counts)
-2019-04-12 13:17:08,281 INFO       Honest_15 voted for 0 [t=0.407; t_received=0.545] (counts)
-2019-04-12 13:17:08,281 INFO       Honest_11 voted for 0 [t=0.418; t_received=0.559] (counts)
-2019-04-12 13:17:08,281 INFO       Honest_14 voted for 1 [t=0.440; t_received=0.616]
-2019-04-12 13:17:08,281 INFO       Honest_18 voted for 1 [t=0.444; t_received=0.546] (counts)
-2019-04-12 13:17:08,281 INFO       Honest_12 voted for 0 [t=0.453; t_received=0.595]
-2019-04-12 13:17:08,281 INFO       Honest_2 voted for 0 [t=0.466; t_received=0.509] (counts)
-2019-04-12 13:17:08,281 INFO       Honest_3 voted for 0 [t=0.467; t_received=0.661]
-2019-04-12 13:17:08,281 INFO       Honest_9 voted for 0 [t=0.468; t_received=0.655]
-2019-04-12 13:17:08,281 INFO       Honest_7 voted for 0 [t=0.480; t_received=0.500] (counts)
-2019-04-12 13:17:08,281 INFO       Honest_13 voted for 1 [t=0.492; t_received=0.668]
-2019-04-12 13:17:08,281 INFO       Honest_4 voted for 1 [t=0.501; t_received=0.708]
-2019-04-12 13:17:08,281 INFO       Honest_1 voted for 0 [t=0.503; t_received=0.641]
-2019-04-12 13:17:08,281 INFO       Honest_8 voted for 0 [t=0.510; t_received=0.548] (counts)
-2019-04-12 13:17:08,281 INFO       Honest_0 voted for 0 [t=0.527; t_received=0.736]
-2019-04-12 13:17:08,281 INFO       Honest_19 voted for 0 [t=0.531; t_received=0.557] (counts)
-2019-04-12 13:17:08,281 INFO       Honest_10 voted for 1 [t=0.535; t_received=0.560] (counts)
-2019-04-12 13:17:08,281 INFO       Honest_16 voted for 0 [t=0.546; t_received=0.579] (counts)
-2019-04-12 13:17:08,282 INFO       Honest_6 voted for 0 [t=0.566; t_received=0.712]
-2019-04-12 13:17:08,282 INFO     Honest_17 votes 0
-2019-04-12 13:17:08,282 INFO     Honest_5 votes [t=0.598]
-2019-04-12 13:17:08,282 INFO       Dishonest_3 voted for 1 [t=0.132; t_received=0.318] (counts)
-2019-04-12 13:17:08,282 INFO       Dishonest_2 voted for 1 [t=0.165; t_received=0.228] (counts)
-2019-04-12 13:17:08,282 INFO       Dishonest_7 voted for 0 [t=0.171; t_received=0.424] (counts)
-2019-04-12 13:17:08,282 INFO       Dishonest_5 voted for 0 [t=0.216; t_received=0.375] (counts)
-2019-04-12 13:17:08,282 INFO       Dishonest_4 voted for 0 [t=0.231; t_received=0.502] (counts)
-2019-04-12 13:17:08,282 INFO       Dishonest_0 voted for 1 [t=0.258; t_received=0.490] (counts)
-2019-04-12 13:17:08,282 INFO       Dishonest_6 voted for 1 [t=0.281; t_received=0.390] (counts)
-2019-04-12 13:17:08,282 INFO       Dishonest_1 voted for 0 [t=0.284; t_received=0.506] (counts)
-2019-04-12 13:17:08,282 INFO       Dishonest_9 voted for 1 [t=0.286; t_received=0.497] (counts)
-2019-04-12 13:17:08,282 INFO       Dishonest_8 voted for 0 [t=0.290; t_received=0.491] (counts)
-2019-04-12 13:17:08,282 INFO       Honest_15 voted for 0 [t=0.407; t_received=0.544] (counts)
-2019-04-12 13:17:08,282 INFO       Honest_11 voted for 0 [t=0.418; t_received=0.661]
-2019-04-12 13:17:08,282 INFO       Honest_14 voted for 1 [t=0.440; t_received=0.458] (counts)
-2019-04-12 13:17:08,282 INFO       Honest_18 voted for 1 [t=0.444; t_received=0.696]
-2019-04-12 13:17:08,282 INFO       Honest_12 voted for 0 [t=0.453; t_received=0.678]
-2019-04-12 13:17:08,282 INFO       Honest_2 voted for 0 [t=0.466; t_received=0.749]
-2019-04-12 13:17:08,282 INFO       Honest_3 voted for 0 [t=0.467; t_received=0.607]
-2019-04-12 13:17:08,282 INFO       Honest_9 voted for 0 [t=0.468; t_received=0.640]
-2019-04-12 13:17:08,282 INFO       Honest_7 voted for 0 [t=0.480; t_received=0.484] (counts)
-2019-04-12 13:17:08,282 INFO       Honest_13 voted for 1 [t=0.492; t_received=0.742]
-2019-04-12 13:17:08,283 INFO       Honest_4 voted for 1 [t=0.501; t_received=0.684]
-2019-04-12 13:17:08,283 INFO       Honest_1 voted for 0 [t=0.503; t_received=0.580] (counts)
-2019-04-12 13:17:08,283 INFO       Honest_8 voted for 0 [t=0.510; t_received=0.590] (counts)
-2019-04-12 13:17:08,283 INFO       Honest_0 voted for 0 [t=0.527; t_received=0.620]
-2019-04-12 13:17:08,283 INFO       Honest_19 voted for 0 [t=0.531; t_received=0.749]
-2019-04-12 13:17:08,283 INFO       Honest_10 voted for 1 [t=0.535; t_received=0.682]
-2019-04-12 13:17:08,283 INFO       Honest_16 voted for 0 [t=0.546; t_received=0.601]
-2019-04-12 13:17:08,283 INFO       Honest_6 voted for 0 [t=0.566; t_received=0.853]
-2019-04-12 13:17:08,283 INFO       Honest_17 voted for 0 [t=0.590; t_received=0.699]
-2019-04-12 13:17:08,283 INFO     Honest_5 votes 0
+2019-04-12 13:34:05,086 INFO     Dishonest_7 votes [t=0.114]
+2019-04-12 13:34:05,086 INFO     Dishonest_7 votes 0
+2019-04-12 13:34:05,086 INFO     Dishonest_4 votes [t=0.124]
+2019-04-12 13:34:05,086 INFO     Dishonest_4 votes 0
+2019-04-12 13:34:05,086 INFO     Dishonest_5 votes [t=0.152]
+2019-04-12 13:34:05,086 INFO     Dishonest_5 votes 1
+2019-04-12 13:34:05,086 INFO     Dishonest_6 votes [t=0.154]
+2019-04-12 13:34:05,086 INFO     Dishonest_6 votes 0
+2019-04-12 13:34:05,086 INFO     Dishonest_1 votes [t=0.170]
+2019-04-12 13:34:05,086 INFO     Dishonest_1 votes 0
+2019-04-12 13:34:05,086 INFO     Dishonest_3 votes [t=0.172]
+2019-04-12 13:34:05,087 INFO     Dishonest_3 votes 1
+2019-04-12 13:34:05,087 INFO     Dishonest_8 votes [t=0.178]
+2019-04-12 13:34:05,087 INFO     Dishonest_8 votes 0
+2019-04-12 13:34:05,087 INFO     Dishonest_0 votes [t=0.214]
+2019-04-12 13:34:05,087 INFO     Dishonest_0 votes 0
+2019-04-12 13:34:05,087 INFO     Dishonest_2 votes [t=0.220]
+2019-04-12 13:34:05,087 INFO     Dishonest_2 votes 1
+2019-04-12 13:34:05,087 INFO     Dishonest_9 votes [t=0.266]
+2019-04-12 13:34:05,087 INFO     Dishonest_9 votes 0
+2019-04-12 13:34:05,087 INFO     Honest_1 votes [t=0.403]
+2019-04-12 13:34:05,087 INFO       Dishonest_7 voted for 0 [t=0.114; t_received=0.145] (counts)
+2019-04-12 13:34:05,087 INFO       Dishonest_4 voted for 0 [t=0.124; t_received=0.279] (counts)
+2019-04-12 13:34:05,087 INFO       Dishonest_5 voted for 1 [t=0.152; t_received=0.315] (counts)
+2019-04-12 13:34:05,087 INFO       Dishonest_6 voted for 0 [t=0.154; t_received=0.185] (counts)
+2019-04-12 13:34:05,087 INFO       Dishonest_1 voted for 0 [t=0.170; t_received=0.468]
+2019-04-12 13:34:05,087 INFO       Dishonest_3 voted for 1 [t=0.172; t_received=0.244] (counts)
+2019-04-12 13:34:05,087 INFO       Dishonest_8 voted for 0 [t=0.178; t_received=0.365] (counts)
+2019-04-12 13:34:05,087 INFO       Dishonest_0 voted for 0 [t=0.214; t_received=0.230] (counts)
+2019-04-12 13:34:05,088 INFO       Dishonest_2 voted for 1 [t=0.220; t_received=0.334] (counts)
+2019-04-12 13:34:05,088 INFO       Dishonest_9 voted for 0 [t=0.266; t_received=0.546]
+2019-04-12 13:34:05,088 INFO     Honest_1 votes 0
+2019-04-12 13:34:05,088 INFO     Honest_9 votes [t=0.407]
+2019-04-12 13:34:05,088 INFO       Dishonest_7 voted for 0 [t=0.114; t_received=0.226] (counts)
+2019-04-12 13:34:05,088 INFO       Dishonest_4 voted for 0 [t=0.124; t_received=0.398] (counts)
+2019-04-12 13:34:05,088 INFO       Dishonest_5 voted for 1 [t=0.152; t_received=0.187] (counts)
+2019-04-12 13:34:05,088 INFO       Dishonest_6 voted for 0 [t=0.154; t_received=0.159] (counts)
+2019-04-12 13:34:05,088 INFO       Dishonest_1 voted for 0 [t=0.170; t_received=0.407]
+2019-04-12 13:34:05,088 INFO       Dishonest_3 voted for 1 [t=0.172; t_received=0.432]
+2019-04-12 13:34:05,088 INFO       Dishonest_8 voted for 0 [t=0.178; t_received=0.458]
+2019-04-12 13:34:05,088 INFO       Dishonest_0 voted for 0 [t=0.214; t_received=0.228] (counts)
+2019-04-12 13:34:05,088 INFO       Dishonest_2 voted for 1 [t=0.220; t_received=0.292] (counts)
+2019-04-12 13:34:05,088 INFO       Dishonest_9 voted for 0 [t=0.266; t_received=0.561]
+2019-04-12 13:34:05,088 INFO       Honest_1 voted for 0 [t=0.403; t_received=0.490]
+2019-04-12 13:34:05,088 INFO     Honest_9 votes 0
+2019-04-12 13:34:05,088 INFO     Honest_0 votes [t=0.407]
+2019-04-12 13:34:05,088 INFO       Dishonest_7 voted for 0 [t=0.114; t_received=0.336] (counts)
+2019-04-12 13:34:05,088 INFO       Dishonest_4 voted for 0 [t=0.124; t_received=0.249] (counts)
+2019-04-12 13:34:05,088 INFO       Dishonest_5 voted for 1 [t=0.152; t_received=0.451]
+2019-04-12 13:34:05,089 INFO       Dishonest_6 voted for 0 [t=0.154; t_received=0.372] (counts)
+2019-04-12 13:34:05,089 INFO       Dishonest_1 voted for 0 [t=0.170; t_received=0.437]
+2019-04-12 13:34:05,089 INFO       Dishonest_3 voted for 1 [t=0.172; t_received=0.302] (counts)
+2019-04-12 13:34:05,089 INFO       Dishonest_8 voted for 0 [t=0.178; t_received=0.298] (counts)
+2019-04-12 13:34:05,089 INFO       Dishonest_0 voted for 0 [t=0.214; t_received=0.403] (counts)
+2019-04-12 13:34:05,089 INFO       Dishonest_2 voted for 1 [t=0.220; t_received=0.261] (counts)
+2019-04-12 13:34:05,089 INFO       Dishonest_9 voted for 0 [t=0.266; t_received=0.347] (counts)
+2019-04-12 13:34:05,089 INFO       Honest_1 voted for 0 [t=0.403; t_received=0.614]
+2019-04-12 13:34:05,089 INFO       Honest_9 voted for 0 [t=0.407; t_received=0.568]
+2019-04-12 13:34:05,089 INFO     Honest_0 votes 0
+2019-04-12 13:34:05,089 INFO     Honest_4 votes [t=0.409]
+2019-04-12 13:34:05,089 INFO       Dishonest_7 voted for 0 [t=0.114; t_received=0.144] (counts)
+2019-04-12 13:34:05,089 INFO       Dishonest_4 voted for 0 [t=0.124; t_received=0.137] (counts)
+2019-04-12 13:34:05,089 INFO       Dishonest_5 voted for 1 [t=0.152; t_received=0.340] (counts)
+2019-04-12 13:34:05,089 INFO       Dishonest_6 voted for 0 [t=0.154; t_received=0.305] (counts)
+2019-04-12 13:34:05,089 INFO       Dishonest_1 voted for 0 [t=0.170; t_received=0.445]
+2019-04-12 13:34:05,089 INFO       Dishonest_3 voted for 1 [t=0.172; t_received=0.298] (counts)
+2019-04-12 13:34:05,089 INFO       Dishonest_8 voted for 0 [t=0.178; t_received=0.193] (counts)
+2019-04-12 13:34:05,089 INFO       Dishonest_0 voted for 0 [t=0.214; t_received=0.343] (counts)
+2019-04-12 13:34:05,089 INFO       Dishonest_2 voted for 1 [t=0.220; t_received=0.321] (counts)
+2019-04-12 13:34:05,089 INFO       Dishonest_9 voted for 0 [t=0.266; t_received=0.509]
+2019-04-12 13:34:05,089 INFO       Honest_1 voted for 0 [t=0.403; t_received=0.530]
+2019-04-12 13:34:05,090 INFO       Honest_9 voted for 0 [t=0.407; t_received=0.538]
+2019-04-12 13:34:05,090 INFO       Honest_0 voted for 0 [t=0.407; t_received=0.525]
+2019-04-12 13:34:05,090 INFO     Honest_4 votes 0
+2019-04-12 13:34:05,090 INFO     Honest_6 votes [t=0.421]
+2019-04-12 13:34:05,090 INFO       Dishonest_7 voted for 0 [t=0.114; t_received=0.327] (counts)
+2019-04-12 13:34:05,090 INFO       Dishonest_4 voted for 0 [t=0.124; t_received=0.371] (counts)
+2019-04-12 13:34:05,090 INFO       Dishonest_5 voted for 1 [t=0.152; t_received=0.335] (counts)
+2019-04-12 13:34:05,090 INFO       Dishonest_6 voted for 0 [t=0.154; t_received=0.305] (counts)
+2019-04-12 13:34:05,090 INFO       Dishonest_1 voted for 0 [t=0.170; t_received=0.216] (counts)
+2019-04-12 13:34:05,090 INFO       Dishonest_3 voted for 1 [t=0.172; t_received=0.252] (counts)
+2019-04-12 13:34:05,090 INFO       Dishonest_8 voted for 0 [t=0.178; t_received=0.277] (counts)
+2019-04-12 13:34:05,090 INFO       Dishonest_0 voted for 0 [t=0.214; t_received=0.485]
+2019-04-12 13:34:05,090 INFO       Dishonest_2 voted for 1 [t=0.220; t_received=0.494]
+2019-04-12 13:34:05,090 INFO       Dishonest_9 voted for 0 [t=0.266; t_received=0.490]
+2019-04-12 13:34:05,090 INFO       Honest_1 voted for 0 [t=0.403; t_received=0.512]
+2019-04-12 13:34:05,090 INFO       Honest_9 voted for 0 [t=0.407; t_received=0.680]
+2019-04-12 13:34:05,090 INFO       Honest_0 voted for 0 [t=0.407; t_received=0.569]
+2019-04-12 13:34:05,090 INFO       Honest_4 voted for 0 [t=0.409; t_received=0.678]
+2019-04-12 13:34:05,090 INFO     Honest_6 votes 0
+2019-04-12 13:34:05,090 INFO     Honest_19 votes [t=0.429]
+2019-04-12 13:34:05,090 INFO       Dishonest_7 voted for 0 [t=0.114; t_received=0.162] (counts)
+2019-04-12 13:34:05,091 INFO       Dishonest_4 voted for 0 [t=0.124; t_received=0.357] (counts)
+2019-04-12 13:34:05,091 INFO       Dishonest_5 voted for 1 [t=0.152; t_received=0.242] (counts)
+2019-04-12 13:34:05,091 INFO       Dishonest_6 voted for 0 [t=0.154; t_received=0.270] (counts)
+2019-04-12 13:34:05,091 INFO       Dishonest_1 voted for 0 [t=0.170; t_received=0.430]
+2019-04-12 13:34:05,091 INFO       Dishonest_3 voted for 1 [t=0.172; t_received=0.393] (counts)
+2019-04-12 13:34:05,091 INFO       Dishonest_8 voted for 0 [t=0.178; t_received=0.355] (counts)
+2019-04-12 13:34:05,091 INFO       Dishonest_0 voted for 0 [t=0.214; t_received=0.400] (counts)
+2019-04-12 13:34:05,091 INFO       Dishonest_2 voted for 1 [t=0.220; t_received=0.345] (counts)
+2019-04-12 13:34:05,091 INFO       Dishonest_9 voted for 0 [t=0.266; t_received=0.521]
+2019-04-12 13:34:05,091 INFO       Honest_1 voted for 0 [t=0.403; t_received=0.482]
+2019-04-12 13:34:05,091 INFO       Honest_9 voted for 0 [t=0.407; t_received=0.618]
+2019-04-12 13:34:05,091 INFO       Honest_0 voted for 0 [t=0.407; t_received=0.656]
+2019-04-12 13:34:05,091 INFO       Honest_4 voted for 0 [t=0.409; t_received=0.655]
+2019-04-12 13:34:05,091 INFO       Honest_6 voted for 0 [t=0.421; t_received=0.609]
+2019-04-12 13:34:05,091 INFO     Honest_19 votes 0
+2019-04-12 13:34:05,091 INFO     Honest_12 votes [t=0.430]
+2019-04-12 13:34:05,091 INFO       Dishonest_7 voted for 0 [t=0.114; t_received=0.305] (counts)
+2019-04-12 13:34:05,091 INFO       Dishonest_4 voted for 0 [t=0.124; t_received=0.262] (counts)
+2019-04-12 13:34:05,091 INFO       Dishonest_5 voted for 1 [t=0.152; t_received=0.168] (counts)
+2019-04-12 13:34:05,091 INFO       Dishonest_6 voted for 0 [t=0.154; t_received=0.420] (counts)
+2019-04-12 13:34:05,091 INFO       Dishonest_1 voted for 0 [t=0.170; t_received=0.228] (counts)
+2019-04-12 13:34:05,091 INFO       Dishonest_3 voted for 1 [t=0.172; t_received=0.451]
+2019-04-12 13:34:05,091 INFO       Dishonest_8 voted for 0 [t=0.178; t_received=0.377] (counts)
+2019-04-12 13:34:05,092 INFO       Dishonest_0 voted for 0 [t=0.214; t_received=0.425] (counts)
+2019-04-12 13:34:05,092 INFO       Dishonest_2 voted for 1 [t=0.220; t_received=0.332] (counts)
+2019-04-12 13:34:05,092 INFO       Dishonest_9 voted for 0 [t=0.266; t_received=0.455]
+2019-04-12 13:34:05,092 INFO       Honest_1 voted for 0 [t=0.403; t_received=0.647]
+2019-04-12 13:34:05,092 INFO       Honest_9 voted for 0 [t=0.407; t_received=0.519]
+2019-04-12 13:34:05,092 INFO       Honest_0 voted for 0 [t=0.407; t_received=0.464]
+2019-04-12 13:34:05,092 INFO       Honest_4 voted for 0 [t=0.409; t_received=0.436]
+2019-04-12 13:34:05,092 INFO       Honest_6 voted for 0 [t=0.421; t_received=0.649]
+2019-04-12 13:34:05,092 INFO       Honest_19 voted for 0 [t=0.429; t_received=0.448]
+2019-04-12 13:34:05,092 INFO     Honest_12 votes 0
+2019-04-12 13:34:05,092 INFO     Honest_3 votes [t=0.432]
+2019-04-12 13:34:05,092 INFO       Dishonest_7 voted for 0 [t=0.114; t_received=0.333] (counts)
+2019-04-12 13:34:05,092 INFO       Dishonest_4 voted for 0 [t=0.124; t_received=0.320] (counts)
+2019-04-12 13:34:05,092 INFO       Dishonest_5 voted for 1 [t=0.152; t_received=0.272] (counts)
+2019-04-12 13:34:05,092 INFO       Dishonest_6 voted for 0 [t=0.154; t_received=0.230] (counts)
+2019-04-12 13:34:05,092 INFO       Dishonest_1 voted for 0 [t=0.170; t_received=0.410] (counts)
+2019-04-12 13:34:05,092 INFO       Dishonest_3 voted for 1 [t=0.172; t_received=0.326] (counts)
+2019-04-12 13:34:05,092 INFO       Dishonest_8 voted for 0 [t=0.178; t_received=0.452]
+2019-04-12 13:34:05,092 INFO       Dishonest_0 voted for 0 [t=0.214; t_received=0.508]
+2019-04-12 13:34:05,092 INFO       Dishonest_2 voted for 1 [t=0.220; t_received=0.254] (counts)
+2019-04-12 13:34:05,092 INFO       Dishonest_9 voted for 0 [t=0.266; t_received=0.365] (counts)
+2019-04-12 13:34:05,092 INFO       Honest_1 voted for 0 [t=0.403; t_received=0.686]
+2019-04-12 13:34:05,092 INFO       Honest_9 voted for 0 [t=0.407; t_received=0.532]
+2019-04-12 13:34:05,093 INFO       Honest_0 voted for 0 [t=0.407; t_received=0.448]
+2019-04-12 13:34:05,093 INFO       Honest_4 voted for 0 [t=0.409; t_received=0.676]
+2019-04-12 13:34:05,093 INFO       Honest_6 voted for 0 [t=0.421; t_received=0.716]
+2019-04-12 13:34:05,093 INFO       Honest_19 voted for 0 [t=0.429; t_received=0.492]
+2019-04-12 13:34:05,093 INFO       Honest_12 voted for 0 [t=0.430; t_received=0.494]
+2019-04-12 13:34:05,093 INFO     Honest_3 votes 0
+2019-04-12 13:34:05,093 INFO     Honest_13 votes [t=0.439]
+2019-04-12 13:34:05,093 INFO       Dishonest_7 voted for 0 [t=0.114; t_received=0.154] (counts)
+2019-04-12 13:34:05,093 INFO       Dishonest_4 voted for 0 [t=0.124; t_received=0.312] (counts)
+2019-04-12 13:34:05,093 INFO       Dishonest_5 voted for 1 [t=0.152; t_received=0.438] (counts)
+2019-04-12 13:34:05,093 INFO       Dishonest_6 voted for 0 [t=0.154; t_received=0.257] (counts)
+2019-04-12 13:34:05,093 INFO       Dishonest_1 voted for 0 [t=0.170; t_received=0.391] (counts)
+2019-04-12 13:34:05,093 INFO       Dishonest_3 voted for 1 [t=0.172; t_received=0.329] (counts)
+2019-04-12 13:34:05,093 INFO       Dishonest_8 voted for 0 [t=0.178; t_received=0.245] (counts)
+2019-04-12 13:34:05,093 INFO       Dishonest_0 voted for 0 [t=0.214; t_received=0.219] (counts)
+2019-04-12 13:34:05,093 INFO       Dishonest_2 voted for 1 [t=0.220; t_received=0.278] (counts)
+2019-04-12 13:34:05,093 INFO       Dishonest_9 voted for 0 [t=0.266; t_received=0.533]
+2019-04-12 13:34:05,093 INFO       Honest_1 voted for 0 [t=0.403; t_received=0.514]
+2019-04-12 13:34:05,093 INFO       Honest_9 voted for 0 [t=0.407; t_received=0.630]
+2019-04-12 13:34:05,093 INFO       Honest_0 voted for 0 [t=0.407; t_received=0.585]
+2019-04-12 13:34:05,093 INFO       Honest_4 voted for 0 [t=0.409; t_received=0.584]
+2019-04-12 13:34:05,093 INFO       Honest_6 voted for 0 [t=0.421; t_received=0.649]
+2019-04-12 13:34:05,093 INFO       Honest_19 voted for 0 [t=0.429; t_received=0.712]
+2019-04-12 13:34:05,094 INFO       Honest_12 voted for 0 [t=0.430; t_received=0.615]
+2019-04-12 13:34:05,094 INFO       Honest_3 voted for 0 [t=0.432; t_received=0.552]
+2019-04-12 13:34:05,094 INFO     Honest_13 votes 0
+2019-04-12 13:34:05,094 INFO     Honest_2 votes [t=0.449]
+2019-04-12 13:34:05,094 INFO       Dishonest_7 voted for 0 [t=0.114; t_received=0.218] (counts)
+2019-04-12 13:34:05,094 INFO       Dishonest_4 voted for 0 [t=0.124; t_received=0.364] (counts)
+2019-04-12 13:34:05,094 INFO       Dishonest_5 voted for 1 [t=0.152; t_received=0.312] (counts)
+2019-04-12 13:34:05,094 INFO       Dishonest_6 voted for 0 [t=0.154; t_received=0.384] (counts)
+2019-04-12 13:34:05,094 INFO       Dishonest_1 voted for 0 [t=0.170; t_received=0.271] (counts)
+2019-04-12 13:34:05,094 INFO       Dishonest_3 voted for 1 [t=0.172; t_received=0.202] (counts)
+2019-04-12 13:34:05,094 INFO       Dishonest_8 voted for 0 [t=0.178; t_received=0.281] (counts)
+2019-04-12 13:34:05,094 INFO       Dishonest_0 voted for 0 [t=0.214; t_received=0.303] (counts)
+2019-04-12 13:34:05,094 INFO       Dishonest_2 voted for 1 [t=0.220; t_received=0.222] (counts)
+2019-04-12 13:34:05,094 INFO       Dishonest_9 voted for 0 [t=0.266; t_received=0.383] (counts)
+2019-04-12 13:34:05,094 INFO       Honest_1 voted for 0 [t=0.403; t_received=0.660]
+2019-04-12 13:34:05,094 INFO       Honest_9 voted for 0 [t=0.407; t_received=0.676]
+2019-04-12 13:34:05,094 INFO       Honest_0 voted for 0 [t=0.407; t_received=0.489]
+2019-04-12 13:34:05,094 INFO       Honest_4 voted for 0 [t=0.409; t_received=0.415] (counts)
+2019-04-12 13:34:05,094 INFO       Honest_6 voted for 0 [t=0.421; t_received=0.428] (counts)
+2019-04-12 13:34:05,094 INFO       Honest_19 voted for 0 [t=0.429; t_received=0.441] (counts)
+2019-04-12 13:34:05,094 INFO       Honest_12 voted for 0 [t=0.430; t_received=0.697]
+2019-04-12 13:34:05,094 INFO       Honest_3 voted for 0 [t=0.432; t_received=0.466]
+2019-04-12 13:34:05,094 INFO       Honest_13 voted for 0 [t=0.439; t_received=0.692]
+2019-04-12 13:34:05,095 INFO     Honest_2 votes 0
+2019-04-12 13:34:05,095 INFO     Honest_18 votes [t=0.452]
+2019-04-12 13:34:05,095 INFO       Dishonest_7 voted for 0 [t=0.114; t_received=0.161] (counts)
+2019-04-12 13:34:05,095 INFO       Dishonest_4 voted for 0 [t=0.124; t_received=0.383] (counts)
+2019-04-12 13:34:05,095 INFO       Dishonest_5 voted for 1 [t=0.152; t_received=0.267] (counts)
+2019-04-12 13:34:05,095 INFO       Dishonest_6 voted for 0 [t=0.154; t_received=0.262] (counts)
+2019-04-12 13:34:05,095 INFO       Dishonest_1 voted for 0 [t=0.170; t_received=0.191] (counts)
+2019-04-12 13:34:05,095 INFO       Dishonest_3 voted for 1 [t=0.172; t_received=0.375] (counts)
+2019-04-12 13:34:05,095 INFO       Dishonest_8 voted for 0 [t=0.178; t_received=0.340] (counts)
+2019-04-12 13:34:05,095 INFO       Dishonest_0 voted for 0 [t=0.214; t_received=0.502]
+2019-04-12 13:34:05,095 INFO       Dishonest_2 voted for 1 [t=0.220; t_received=0.224] (counts)
+2019-04-12 13:34:05,095 INFO       Dishonest_9 voted for 0 [t=0.266; t_received=0.451] (counts)
+2019-04-12 13:34:05,095 INFO       Honest_1 voted for 0 [t=0.403; t_received=0.511]
+2019-04-12 13:34:05,095 INFO       Honest_9 voted for 0 [t=0.407; t_received=0.574]
+2019-04-12 13:34:05,095 INFO       Honest_0 voted for 0 [t=0.407; t_received=0.423] (counts)
+2019-04-12 13:34:05,095 INFO       Honest_4 voted for 0 [t=0.409; t_received=0.614]
+2019-04-12 13:34:05,095 INFO       Honest_6 voted for 0 [t=0.421; t_received=0.630]
+2019-04-12 13:34:05,095 INFO       Honest_19 voted for 0 [t=0.429; t_received=0.548]
+2019-04-12 13:34:05,095 INFO       Honest_12 voted for 0 [t=0.430; t_received=0.556]
+2019-04-12 13:34:05,095 INFO       Honest_3 voted for 0 [t=0.432; t_received=0.672]
+2019-04-12 13:34:05,095 INFO       Honest_13 voted for 0 [t=0.439; t_received=0.617]
+2019-04-12 13:34:05,095 INFO       Honest_2 voted for 0 [t=0.449; t_received=0.709]
+2019-04-12 13:34:05,095 INFO     Honest_18 votes 0
+2019-04-12 13:34:05,096 INFO     Honest_17 votes [t=0.456]
+2019-04-12 13:34:05,096 INFO       Dishonest_7 voted for 0 [t=0.114; t_received=0.379] (counts)
+2019-04-12 13:34:05,096 INFO       Dishonest_4 voted for 0 [t=0.124; t_received=0.381] (counts)
+2019-04-12 13:34:05,096 INFO       Dishonest_5 voted for 1 [t=0.152; t_received=0.325] (counts)
+2019-04-12 13:34:05,096 INFO       Dishonest_6 voted for 0 [t=0.154; t_received=0.263] (counts)
+2019-04-12 13:34:05,096 INFO       Dishonest_1 voted for 0 [t=0.170; t_received=0.328] (counts)
+2019-04-12 13:34:05,096 INFO       Dishonest_3 voted for 1 [t=0.172; t_received=0.265] (counts)
+2019-04-12 13:34:05,096 INFO       Dishonest_8 voted for 0 [t=0.178; t_received=0.286] (counts)
+2019-04-12 13:34:05,096 INFO       Dishonest_0 voted for 0 [t=0.214; t_received=0.233] (counts)
+2019-04-12 13:34:05,096 INFO       Dishonest_2 voted for 1 [t=0.220; t_received=0.343] (counts)
+2019-04-12 13:34:05,096 INFO       Dishonest_9 voted for 0 [t=0.266; t_received=0.397] (counts)
+2019-04-12 13:34:05,096 INFO       Honest_1 voted for 0 [t=0.403; t_received=0.612]
+2019-04-12 13:34:05,096 INFO       Honest_9 voted for 0 [t=0.407; t_received=0.596]
+2019-04-12 13:34:05,096 INFO       Honest_0 voted for 0 [t=0.407; t_received=0.579]
+2019-04-12 13:34:05,096 INFO       Honest_4 voted for 0 [t=0.409; t_received=0.427] (counts)
+2019-04-12 13:34:05,096 INFO       Honest_6 voted for 0 [t=0.421; t_received=0.667]
+2019-04-12 13:34:05,096 INFO       Honest_19 voted for 0 [t=0.429; t_received=0.549]
+2019-04-12 13:34:05,096 INFO       Honest_12 voted for 0 [t=0.430; t_received=0.509]
+2019-04-12 13:34:05,096 INFO       Honest_3 voted for 0 [t=0.432; t_received=0.562]
+2019-04-12 13:34:05,096 INFO       Honest_13 voted for 0 [t=0.439; t_received=0.502]
+2019-04-12 13:34:05,096 INFO       Honest_2 voted for 0 [t=0.449; t_received=0.683]
+2019-04-12 13:34:05,096 INFO       Honest_18 voted for 0 [t=0.452; t_received=0.547]
+2019-04-12 13:34:05,096 INFO     Honest_17 votes 0
+2019-04-12 13:34:05,097 INFO     Honest_10 votes [t=0.456]
+2019-04-12 13:34:05,097 INFO       Dishonest_7 voted for 0 [t=0.114; t_received=0.299] (counts)
+2019-04-12 13:34:05,097 INFO       Dishonest_4 voted for 0 [t=0.124; t_received=0.303] (counts)
+2019-04-12 13:34:05,097 INFO       Dishonest_5 voted for 1 [t=0.152; t_received=0.395] (counts)
+2019-04-12 13:34:05,097 INFO       Dishonest_6 voted for 0 [t=0.154; t_received=0.305] (counts)
+2019-04-12 13:34:05,097 INFO       Dishonest_1 voted for 0 [t=0.170; t_received=0.246] (counts)
+2019-04-12 13:34:05,097 INFO       Dishonest_3 voted for 1 [t=0.172; t_received=0.314] (counts)
+2019-04-12 13:34:05,097 INFO       Dishonest_8 voted for 0 [t=0.178; t_received=0.290] (counts)
+2019-04-12 13:34:05,097 INFO       Dishonest_0 voted for 0 [t=0.214; t_received=0.489]
+2019-04-12 13:34:05,097 INFO       Dishonest_2 voted for 1 [t=0.220; t_received=0.387] (counts)
+2019-04-12 13:34:05,097 INFO       Dishonest_9 voted for 0 [t=0.266; t_received=0.506]
+2019-04-12 13:34:05,097 INFO       Honest_1 voted for 0 [t=0.403; t_received=0.628]
+2019-04-12 13:34:05,097 INFO       Honest_9 voted for 0 [t=0.407; t_received=0.678]
+2019-04-12 13:34:05,097 INFO       Honest_0 voted for 0 [t=0.407; t_received=0.545]
+2019-04-12 13:34:05,097 INFO       Honest_4 voted for 0 [t=0.409; t_received=0.514]
+2019-04-12 13:34:05,098 INFO       Honest_6 voted for 0 [t=0.421; t_received=0.659]
+2019-04-12 13:34:05,098 INFO       Honest_19 voted for 0 [t=0.429; t_received=0.626]
+2019-04-12 13:34:05,098 INFO       Honest_12 voted for 0 [t=0.430; t_received=0.551]
+2019-04-12 13:34:05,098 INFO       Honest_3 voted for 0 [t=0.432; t_received=0.574]
+2019-04-12 13:34:05,098 INFO       Honest_13 voted for 0 [t=0.439; t_received=0.731]
+2019-04-12 13:34:05,098 INFO       Honest_2 voted for 0 [t=0.449; t_received=0.515]
+2019-04-12 13:34:05,098 INFO       Honest_18 voted for 0 [t=0.452; t_received=0.665]
+2019-04-12 13:34:05,098 INFO       Honest_17 voted for 0 [t=0.456; t_received=0.563]
+2019-04-12 13:34:05,098 INFO     Honest_10 votes 0
+2019-04-12 13:34:05,098 INFO     Honest_16 votes [t=0.460]
+2019-04-12 13:34:05,098 INFO       Dishonest_7 voted for 0 [t=0.114; t_received=0.185] (counts)
+2019-04-12 13:34:05,098 INFO       Dishonest_4 voted for 0 [t=0.124; t_received=0.346] (counts)
+2019-04-12 13:34:05,098 INFO       Dishonest_5 voted for 1 [t=0.152; t_received=0.431] (counts)
+2019-04-12 13:34:05,098 INFO       Dishonest_6 voted for 0 [t=0.154; t_received=0.442] (counts)
+2019-04-12 13:34:05,098 INFO       Dishonest_1 voted for 0 [t=0.170; t_received=0.371] (counts)
+2019-04-12 13:34:05,098 INFO       Dishonest_3 voted for 1 [t=0.172; t_received=0.191] (counts)
+2019-04-12 13:34:05,098 INFO       Dishonest_8 voted for 0 [t=0.178; t_received=0.472]
+2019-04-12 13:34:05,098 INFO       Dishonest_0 voted for 0 [t=0.214; t_received=0.459] (counts)
+2019-04-12 13:34:05,098 INFO       Dishonest_2 voted for 1 [t=0.220; t_received=0.374] (counts)
+2019-04-12 13:34:05,098 INFO       Dishonest_9 voted for 0 [t=0.266; t_received=0.433] (counts)
+2019-04-12 13:34:05,098 INFO       Honest_1 voted for 0 [t=0.403; t_received=0.591]
+2019-04-12 13:34:05,098 INFO       Honest_9 voted for 0 [t=0.407; t_received=0.481]
+2019-04-12 13:34:05,099 INFO       Honest_0 voted for 0 [t=0.407; t_received=0.487]
+2019-04-12 13:34:05,099 INFO       Honest_4 voted for 0 [t=0.409; t_received=0.415] (counts)
+2019-04-12 13:34:05,099 INFO       Honest_6 voted for 0 [t=0.421; t_received=0.680]
+2019-04-12 13:34:05,099 INFO       Honest_19 voted for 0 [t=0.429; t_received=0.612]
+2019-04-12 13:34:05,099 INFO       Honest_12 voted for 0 [t=0.430; t_received=0.661]
+2019-04-12 13:34:05,099 INFO       Honest_3 voted for 0 [t=0.432; t_received=0.464]
+2019-04-12 13:34:05,099 INFO       Honest_13 voted for 0 [t=0.439; t_received=0.728]
+2019-04-12 13:34:05,099 INFO       Honest_2 voted for 0 [t=0.449; t_received=0.460] (counts)
+2019-04-12 13:34:05,099 INFO       Honest_18 voted for 0 [t=0.452; t_received=0.542]
+2019-04-12 13:34:05,099 INFO       Honest_17 voted for 0 [t=0.456; t_received=0.580]
+2019-04-12 13:34:05,099 INFO       Honest_10 voted for 0 [t=0.456; t_received=0.728]
+2019-04-12 13:34:05,099 INFO     Honest_16 votes 0
+2019-04-12 13:34:05,099 INFO     Honest_8 votes [t=0.488]
+2019-04-12 13:34:05,099 INFO       Dishonest_7 voted for 0 [t=0.114; t_received=0.227] (counts)
+2019-04-12 13:34:05,099 INFO       Dishonest_4 voted for 0 [t=0.124; t_received=0.252] (counts)
+2019-04-12 13:34:05,099 INFO       Dishonest_5 voted for 1 [t=0.152; t_received=0.373] (counts)
+2019-04-12 13:34:05,099 INFO       Dishonest_6 voted for 0 [t=0.154; t_received=0.307] (counts)
+2019-04-12 13:34:05,099 INFO       Dishonest_1 voted for 0 [t=0.170; t_received=0.409] (counts)
+2019-04-12 13:34:05,099 INFO       Dishonest_3 voted for 1 [t=0.172; t_received=0.471] (counts)
+2019-04-12 13:34:05,099 INFO       Dishonest_8 voted for 0 [t=0.178; t_received=0.200] (counts)
+2019-04-12 13:34:05,099 INFO       Dishonest_0 voted for 0 [t=0.214; t_received=0.396] (counts)
+2019-04-12 13:34:05,099 INFO       Dishonest_2 voted for 1 [t=0.220; t_received=0.518]
+2019-04-12 13:34:05,099 INFO       Dishonest_9 voted for 0 [t=0.266; t_received=0.426] (counts)
+2019-04-12 13:34:05,100 INFO       Honest_1 voted for 0 [t=0.403; t_received=0.516]
+2019-04-12 13:34:05,100 INFO       Honest_9 voted for 0 [t=0.407; t_received=0.707]
+2019-04-12 13:34:05,100 INFO       Honest_0 voted for 0 [t=0.407; t_received=0.584]
+2019-04-12 13:34:05,100 INFO       Honest_4 voted for 0 [t=0.409; t_received=0.414] (counts)
+2019-04-12 13:34:05,100 INFO       Honest_6 voted for 0 [t=0.421; t_received=0.600]
+2019-04-12 13:34:05,100 INFO       Honest_19 voted for 0 [t=0.429; t_received=0.514]
+2019-04-12 13:34:05,100 INFO       Honest_12 voted for 0 [t=0.430; t_received=0.610]
+2019-04-12 13:34:05,100 INFO       Honest_3 voted for 0 [t=0.432; t_received=0.577]
+2019-04-12 13:34:05,100 INFO       Honest_13 voted for 0 [t=0.439; t_received=0.487] (counts)
+2019-04-12 13:34:05,100 INFO       Honest_2 voted for 0 [t=0.449; t_received=0.590]
+2019-04-12 13:34:05,100 INFO       Honest_18 voted for 0 [t=0.452; t_received=0.610]
+2019-04-12 13:34:05,100 INFO       Honest_17 voted for 0 [t=0.456; t_received=0.483] (counts)
+2019-04-12 13:34:05,100 INFO       Honest_10 voted for 0 [t=0.456; t_received=0.601]
+2019-04-12 13:34:05,100 INFO       Honest_16 voted for 0 [t=0.460; t_received=0.681]
+2019-04-12 13:34:05,100 INFO     Honest_8 votes 0
+2019-04-12 13:34:05,100 INFO     Honest_7 votes [t=0.491]
+2019-04-12 13:34:05,100 INFO       Dishonest_7 voted for 0 [t=0.114; t_received=0.394] (counts)
+2019-04-12 13:34:05,100 INFO       Dishonest_4 voted for 0 [t=0.124; t_received=0.364] (counts)
+2019-04-12 13:34:05,100 INFO       Dishonest_5 voted for 1 [t=0.152; t_received=0.225] (counts)
+2019-04-12 13:34:05,100 INFO       Dishonest_6 voted for 0 [t=0.154; t_received=0.400] (counts)
+2019-04-12 13:34:05,100 INFO       Dishonest_1 voted for 0 [t=0.170; t_received=0.465] (counts)
+2019-04-12 13:34:05,100 INFO       Dishonest_3 voted for 1 [t=0.172; t_received=0.175] (counts)
+2019-04-12 13:34:05,101 INFO       Dishonest_8 voted for 0 [t=0.178; t_received=0.407] (counts)
+2019-04-12 13:34:05,101 INFO       Dishonest_0 voted for 0 [t=0.214; t_received=0.236] (counts)
+2019-04-12 13:34:05,101 INFO       Dishonest_2 voted for 1 [t=0.220; t_received=0.393] (counts)
+2019-04-12 13:34:05,101 INFO       Dishonest_9 voted for 0 [t=0.266; t_received=0.523]
+2019-04-12 13:34:05,101 INFO       Honest_1 voted for 0 [t=0.403; t_received=0.678]
+2019-04-12 13:34:05,101 INFO       Honest_9 voted for 0 [t=0.407; t_received=0.566]
+2019-04-12 13:34:05,101 INFO       Honest_0 voted for 0 [t=0.407; t_received=0.631]
+2019-04-12 13:34:05,101 INFO       Honest_4 voted for 0 [t=0.409; t_received=0.680]
+2019-04-12 13:34:05,101 INFO       Honest_6 voted for 0 [t=0.421; t_received=0.539]
+2019-04-12 13:34:05,101 INFO       Honest_19 voted for 0 [t=0.429; t_received=0.520]
+2019-04-12 13:34:05,101 INFO       Honest_12 voted for 0 [t=0.430; t_received=0.471] (counts)
+2019-04-12 13:34:05,101 INFO       Honest_3 voted for 0 [t=0.432; t_received=0.465] (counts)
+2019-04-12 13:34:05,101 INFO       Honest_13 voted for 0 [t=0.439; t_received=0.600]
+2019-04-12 13:34:05,101 INFO       Honest_2 voted for 0 [t=0.449; t_received=0.566]
+2019-04-12 13:34:05,101 INFO       Honest_18 voted for 0 [t=0.452; t_received=0.598]
+2019-04-12 13:34:05,101 INFO       Honest_17 voted for 0 [t=0.456; t_received=0.639]
+2019-04-12 13:34:05,101 INFO       Honest_10 voted for 0 [t=0.456; t_received=0.593]
+2019-04-12 13:34:05,101 INFO       Honest_16 voted for 0 [t=0.460; t_received=0.510]
+2019-04-12 13:34:05,101 INFO       Honest_8 voted for 0 [t=0.488; t_received=0.498]
+2019-04-12 13:34:05,101 INFO     Honest_7 votes 0
+2019-04-12 13:34:05,101 INFO     Honest_11 votes [t=0.497]
+2019-04-12 13:34:05,101 INFO       Dishonest_7 voted for 0 [t=0.114; t_received=0.324] (counts)
+2019-04-12 13:34:05,101 INFO       Dishonest_4 voted for 0 [t=0.124; t_received=0.201] (counts)
+2019-04-12 13:34:05,102 INFO       Dishonest_5 voted for 1 [t=0.152; t_received=0.373] (counts)
+2019-04-12 13:34:05,102 INFO       Dishonest_6 voted for 0 [t=0.154; t_received=0.336] (counts)
+2019-04-12 13:34:05,102 INFO       Dishonest_1 voted for 0 [t=0.170; t_received=0.460] (counts)
+2019-04-12 13:34:05,102 INFO       Dishonest_3 voted for 1 [t=0.172; t_received=0.191] (counts)
+2019-04-12 13:34:05,102 INFO       Dishonest_8 voted for 0 [t=0.178; t_received=0.211] (counts)
+2019-04-12 13:34:05,102 INFO       Dishonest_0 voted for 0 [t=0.214; t_received=0.476] (counts)
+2019-04-12 13:34:05,102 INFO       Dishonest_2 voted for 1 [t=0.220; t_received=0.387] (counts)
+2019-04-12 13:34:05,102 INFO       Dishonest_9 voted for 0 [t=0.266; t_received=0.411] (counts)
+2019-04-12 13:34:05,102 INFO       Honest_1 voted for 0 [t=0.403; t_received=0.592]
+2019-04-12 13:34:05,102 INFO       Honest_9 voted for 0 [t=0.407; t_received=0.495] (counts)
+2019-04-12 13:34:05,102 INFO       Honest_0 voted for 0 [t=0.407; t_received=0.667]
+2019-04-12 13:34:05,102 INFO       Honest_4 voted for 0 [t=0.409; t_received=0.540]
+2019-04-12 13:34:05,102 INFO       Honest_6 voted for 0 [t=0.421; t_received=0.696]
+2019-04-12 13:34:05,102 INFO       Honest_19 voted for 0 [t=0.429; t_received=0.564]
+2019-04-12 13:34:05,102 INFO       Honest_12 voted for 0 [t=0.430; t_received=0.496] (counts)
+2019-04-12 13:34:05,102 INFO       Honest_3 voted for 0 [t=0.432; t_received=0.572]
+2019-04-12 13:34:05,102 INFO       Honest_13 voted for 0 [t=0.439; t_received=0.540]
+2019-04-12 13:34:05,102 INFO       Honest_2 voted for 0 [t=0.449; t_received=0.459] (counts)
+2019-04-12 13:34:05,102 INFO       Honest_18 voted for 0 [t=0.452; t_received=0.457] (counts)
+2019-04-12 13:34:05,102 INFO       Honest_17 voted for 0 [t=0.456; t_received=0.652]
+2019-04-12 13:34:05,102 INFO       Honest_10 voted for 0 [t=0.456; t_received=0.521]
+2019-04-12 13:34:05,102 INFO       Honest_16 voted for 0 [t=0.460; t_received=0.500]
+2019-04-12 13:34:05,102 INFO       Honest_8 voted for 0 [t=0.488; t_received=0.600]
+2019-04-12 13:34:05,103 INFO       Honest_7 voted for 0 [t=0.491; t_received=0.597]
+2019-04-12 13:34:05,103 INFO     Honest_11 votes 0
+2019-04-12 13:34:05,103 INFO     Honest_5 votes [t=0.513]
+2019-04-12 13:34:05,103 INFO       Dishonest_7 voted for 0 [t=0.114; t_received=0.270] (counts)
+2019-04-12 13:34:05,103 INFO       Dishonest_4 voted for 0 [t=0.124; t_received=0.286] (counts)
+2019-04-12 13:34:05,103 INFO       Dishonest_5 voted for 1 [t=0.152; t_received=0.367] (counts)
+2019-04-12 13:34:05,103 INFO       Dishonest_6 voted for 0 [t=0.154; t_received=0.434] (counts)
+2019-04-12 13:34:05,103 INFO       Dishonest_1 voted for 0 [t=0.170; t_received=0.445] (counts)
+2019-04-12 13:34:05,103 INFO       Dishonest_3 voted for 1 [t=0.172; t_received=0.268] (counts)
+2019-04-12 13:34:05,103 INFO       Dishonest_8 voted for 0 [t=0.178; t_received=0.333] (counts)
+2019-04-12 13:34:05,103 INFO       Dishonest_0 voted for 0 [t=0.214; t_received=0.467] (counts)
+2019-04-12 13:34:05,103 INFO       Dishonest_2 voted for 1 [t=0.220; t_received=0.444] (counts)
+2019-04-12 13:34:05,103 INFO       Dishonest_9 voted for 0 [t=0.266; t_received=0.449] (counts)
+2019-04-12 13:34:05,103 INFO       Honest_1 voted for 0 [t=0.403; t_received=0.695]
+2019-04-12 13:34:05,103 INFO       Honest_9 voted for 0 [t=0.407; t_received=0.667]
+2019-04-12 13:34:05,103 INFO       Honest_0 voted for 0 [t=0.407; t_received=0.611]
+2019-04-12 13:34:05,103 INFO       Honest_4 voted for 0 [t=0.409; t_received=0.474] (counts)
+2019-04-12 13:34:05,103 INFO       Honest_6 voted for 0 [t=0.421; t_received=0.551]
+2019-04-12 13:34:05,103 INFO       Honest_19 voted for 0 [t=0.429; t_received=0.505] (counts)
+2019-04-12 13:34:05,103 INFO       Honest_12 voted for 0 [t=0.430; t_received=0.648]
+2019-04-12 13:34:05,103 INFO       Honest_3 voted for 0 [t=0.432; t_received=0.600]
+2019-04-12 13:34:05,103 INFO       Honest_13 voted for 0 [t=0.439; t_received=0.679]
+2019-04-12 13:34:05,103 INFO       Honest_2 voted for 0 [t=0.449; t_received=0.473] (counts)
+2019-04-12 13:34:05,104 INFO       Honest_18 voted for 0 [t=0.452; t_received=0.545]
+2019-04-12 13:34:05,104 INFO       Honest_17 voted for 0 [t=0.456; t_received=0.726]
+2019-04-12 13:34:05,104 INFO       Honest_10 voted for 0 [t=0.456; t_received=0.587]
+2019-04-12 13:34:05,104 INFO       Honest_16 voted for 0 [t=0.460; t_received=0.508] (counts)
+2019-04-12 13:34:05,104 INFO       Honest_8 voted for 0 [t=0.488; t_received=0.581]
+2019-04-12 13:34:05,104 INFO       Honest_7 voted for 0 [t=0.491; t_received=0.674]
+2019-04-12 13:34:05,104 INFO       Honest_11 voted for 0 [t=0.497; t_received=0.601]
+2019-04-12 13:34:05,104 INFO     Honest_5 votes 0
+2019-04-12 13:34:05,104 INFO     Honest_14 votes [t=0.517]
+2019-04-12 13:34:05,104 INFO       Dishonest_7 voted for 0 [t=0.114; t_received=0.184] (counts)
+2019-04-12 13:34:05,104 INFO       Dishonest_4 voted for 0 [t=0.124; t_received=0.322] (counts)
+2019-04-12 13:34:05,104 INFO       Dishonest_5 voted for 1 [t=0.152; t_received=0.277] (counts)
+2019-04-12 13:34:05,104 INFO       Dishonest_6 voted for 0 [t=0.154; t_received=0.242] (counts)
+2019-04-12 13:34:05,104 INFO       Dishonest_1 voted for 0 [t=0.170; t_received=0.181] (counts)
+2019-04-12 13:34:05,104 INFO       Dishonest_3 voted for 1 [t=0.172; t_received=0.362] (counts)
+2019-04-12 13:34:05,104 INFO       Dishonest_8 voted for 0 [t=0.178; t_received=0.224] (counts)
+2019-04-12 13:34:05,104 INFO       Dishonest_0 voted for 0 [t=0.214; t_received=0.266] (counts)
+2019-04-12 13:34:05,104 INFO       Dishonest_2 voted for 1 [t=0.220; t_received=0.397] (counts)
+2019-04-12 13:34:05,104 INFO       Dishonest_9 voted for 0 [t=0.266; t_received=0.478] (counts)
+2019-04-12 13:34:05,104 INFO       Honest_1 voted for 0 [t=0.403; t_received=0.496] (counts)
+2019-04-12 13:34:05,104 INFO       Honest_9 voted for 0 [t=0.407; t_received=0.605]
+2019-04-12 13:34:05,104 INFO       Honest_0 voted for 0 [t=0.407; t_received=0.454] (counts)
+2019-04-12 13:34:05,104 INFO       Honest_4 voted for 0 [t=0.409; t_received=0.508] (counts)
+2019-04-12 13:34:05,105 INFO       Honest_6 voted for 0 [t=0.421; t_received=0.569]
+2019-04-12 13:34:05,105 INFO       Honest_19 voted for 0 [t=0.429; t_received=0.481] (counts)
+2019-04-12 13:34:05,105 INFO       Honest_12 voted for 0 [t=0.430; t_received=0.641]
+2019-04-12 13:34:05,105 INFO       Honest_3 voted for 0 [t=0.432; t_received=0.503] (counts)
+2019-04-12 13:34:05,105 INFO       Honest_13 voted for 0 [t=0.439; t_received=0.530]
+2019-04-12 13:34:05,105 INFO       Honest_2 voted for 0 [t=0.449; t_received=0.593]
+2019-04-12 13:34:05,105 INFO       Honest_18 voted for 0 [t=0.452; t_received=0.733]
+2019-04-12 13:34:05,105 INFO       Honest_17 voted for 0 [t=0.456; t_received=0.688]
+2019-04-12 13:34:05,105 INFO       Honest_10 voted for 0 [t=0.456; t_received=0.626]
+2019-04-12 13:34:05,105 INFO       Honest_16 voted for 0 [t=0.460; t_received=0.717]
+2019-04-12 13:34:05,105 INFO       Honest_8 voted for 0 [t=0.488; t_received=0.740]
+2019-04-12 13:34:05,105 INFO       Honest_7 voted for 0 [t=0.491; t_received=0.524]
+2019-04-12 13:34:05,105 INFO       Honest_11 voted for 0 [t=0.497; t_received=0.542]
+2019-04-12 13:34:05,105 INFO       Honest_5 voted for 0 [t=0.513; t_received=0.751]
+2019-04-12 13:34:05,105 INFO     Honest_14 votes 0
+2019-04-12 13:34:05,105 INFO     Honest_15 votes [t=0.600]
+2019-04-12 13:34:05,105 INFO       Dishonest_7 voted for 0 [t=0.114; t_received=0.212] (counts)
+2019-04-12 13:34:05,105 INFO       Dishonest_4 voted for 0 [t=0.124; t_received=0.259] (counts)
+2019-04-12 13:34:05,105 INFO       Dishonest_5 voted for 1 [t=0.152; t_received=0.306] (counts)
+2019-04-12 13:34:05,105 INFO       Dishonest_6 voted for 0 [t=0.154; t_received=0.233] (counts)
+2019-04-12 13:34:05,105 INFO       Dishonest_1 voted for 0 [t=0.170; t_received=0.338] (counts)
+2019-04-12 13:34:05,105 INFO       Dishonest_3 voted for 1 [t=0.172; t_received=0.247] (counts)
+2019-04-12 13:34:05,105 INFO       Dishonest_8 voted for 0 [t=0.178; t_received=0.399] (counts)
+2019-04-12 13:34:05,106 INFO       Dishonest_0 voted for 0 [t=0.214; t_received=0.408] (counts)
+2019-04-12 13:34:05,106 INFO       Dishonest_2 voted for 1 [t=0.220; t_received=0.258] (counts)
+2019-04-12 13:34:05,106 INFO       Dishonest_9 voted for 0 [t=0.266; t_received=0.307] (counts)
+2019-04-12 13:34:05,106 INFO       Honest_1 voted for 0 [t=0.403; t_received=0.549] (counts)
+2019-04-12 13:34:05,106 INFO       Honest_9 voted for 0 [t=0.407; t_received=0.646]
+2019-04-12 13:34:05,106 INFO       Honest_0 voted for 0 [t=0.407; t_received=0.559] (counts)
+2019-04-12 13:34:05,106 INFO       Honest_4 voted for 0 [t=0.409; t_received=0.649]
+2019-04-12 13:34:05,106 INFO       Honest_6 voted for 0 [t=0.421; t_received=0.546] (counts)
+2019-04-12 13:34:05,106 INFO       Honest_19 voted for 0 [t=0.429; t_received=0.658]
+2019-04-12 13:34:05,106 INFO       Honest_12 voted for 0 [t=0.430; t_received=0.493] (counts)
+2019-04-12 13:34:05,106 INFO       Honest_3 voted for 0 [t=0.432; t_received=0.618]
+2019-04-12 13:34:05,106 INFO       Honest_13 voted for 0 [t=0.439; t_received=0.610]
+2019-04-12 13:34:05,106 INFO       Honest_2 voted for 0 [t=0.449; t_received=0.580] (counts)
+2019-04-12 13:34:05,106 INFO       Honest_18 voted for 0 [t=0.452; t_received=0.708]
+2019-04-12 13:34:05,106 INFO       Honest_17 voted for 0 [t=0.456; t_received=0.755]
+2019-04-12 13:34:05,106 INFO       Honest_10 voted for 0 [t=0.456; t_received=0.599] (counts)
+2019-04-12 13:34:05,106 INFO       Honest_16 voted for 0 [t=0.460; t_received=0.625]
+2019-04-12 13:34:05,106 INFO       Honest_8 voted for 0 [t=0.488; t_received=0.673]
+2019-04-12 13:34:05,106 INFO       Honest_7 voted for 0 [t=0.491; t_received=0.536] (counts)
+2019-04-12 13:34:05,106 INFO       Honest_11 voted for 0 [t=0.497; t_received=0.624]
+2019-04-12 13:34:05,106 INFO       Honest_5 voted for 0 [t=0.513; t_received=0.641]
+2019-04-12 13:34:05,106 INFO       Honest_14 voted for 0 [t=0.517; t_received=0.712]
+2019-04-12 13:34:05,106 INFO     Honest_15 votes 0
