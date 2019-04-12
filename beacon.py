@@ -12,6 +12,17 @@ class Validator(object):
 
 class Faction(object):
   def __init__(self, num, name):
+      """Construct a Faction of validators that follow a common strategy
+      
+      Args:
+        num: the number of validators in this faction
+        name: the name of the faction
+        timings: function that decides the time to publish attestation
+        attestation_strat: function that decides which block to attest
+        validators: the $(num) Validators
+
+
+      """
     self.num = num
     self.name = name
     self.timings = None
@@ -21,6 +32,10 @@ class Faction(object):
 
   @classmethod
   def HonestFaction(cls, num, name, aim, error_param, delay_param):
+    """An faction of "honest" validators.
+    They are supposed to publish at time = aim with some noise
+
+    """
     f = cls(num, name)
     f.timings = timing_with_mean(f, error_param, aim)
     f.attestation_strat = (lambda v, t, f, vts:
@@ -29,6 +44,9 @@ class Faction(object):
     
   @classmethod
   def SmokeFaction(cls, num, name, aim, error_param, delay_param):
+    """A faction of validators that publish votes randomly, at time approximately aim - delay_param,
+    so that (honest) validators receive these votes at time approximately aim
+    """
     f = cls(num, name)
     f.timings = timing_with_mean(f, error_param, aim-delay_param)
     f.attestation_strat = (lambda v, t, f, vts:
@@ -36,6 +54,10 @@ class Faction(object):
     return f
     
 def adjusted_random_time(lower, upper):
+  """Uniformly random 
+  TODO: The current implementation assumes slot time of 1 second. Change this?
+
+  """
   timing = random.uniform(lower, upper)
   if timing < 0.0:
     timing = 0.0
@@ -47,11 +69,24 @@ def timing_with_mean(faction, error_param, mean=0.5):
   """attests around 0.5 with error bar uniformly distributed within error_param"""
   timings = []
   for v in faction.validators:
-    timing = adjusted_random_time(mean-error_param, mean+error_param)
+    timing = adjusted_random_time(mean - error_param, mean + error_param)
     timings.append((v, timing))
   return timings
 
 def attestation_honest_majority(validator, time_current, factions, votes, delay_param, flipped=False):
+  """The honest way of things
+  Args:
+    validator: ?
+    time_current: the current time. Validators only see votes that come before this time.
+    factions: ?
+    votes: all the votes
+    delay_param: the validator receives vote at the published time + some unique delay for each vote
+    flipped: ?
+    
+  Returns:
+    vote: the vote of this validator after considering all seeable votes
+
+  """
   seen_votes = [0, 0]
   for (v, timing, vote) in votes:
     time_received = adjusted_random_time(timing, timing + delay_param)
@@ -69,6 +104,8 @@ def attestation_honest_majority(validator, time_current, factions, votes, delay_
   return vote
 
 def attestation_smokescreen():
+  """Smokescreen strategy: vote randomly
+  """
   return random.choice([0,1])
   
 def play(faction1, faction2):
