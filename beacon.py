@@ -12,17 +12,17 @@ class Validator(object):
 
 class Faction(object):
   def __init__(self, num, name):
-      """Construct a Faction of validators that follow a common strategy
-      
-      Args:
-        num: the number of validators in this faction
-        name: the name of the faction
-        timings: function that decides the time to publish attestation
-        attestation_strat: function that decides which block to attest
-        validators: the $(num) Validators
+    """Construct a Faction of validators that follow a common strategy
+  
+    Args:
+      num: the number of validators in this faction
+      name: the name of the faction
+      timings: function that decides the time to publish attestation
+      attestation_strat: function that decides which block to attest
+      validators: the $(num) Validators
 
 
-      """
+    """
     self.num = num
     self.name = name
     self.timings = None
