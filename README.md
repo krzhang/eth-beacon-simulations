@@ -36,7 +36,4 @@ What we learned through simulation 1 & 2 [04/18/2019]:
 3. Interpretation above is just based on an intuitive understanding. Robust statistical analysis will be updated through new data_analysis files corresponding to the simulations.
 
 Simulation 3 & 4 would be the next assignment.
-Other than these simulations, I wonder if we can modify the fixed mean value of 0.5 to another value inside of the following function definition.
-*
- def timing_with_mean(faction, error_param, mean=0.5):
- """attests around 0.5 with error bar uniformly distributed within error_param"""
+
