@@ -1,5 +1,3 @@
-# eth-beacon-simulations
-Simulations for Etherem Beacon chain 2.0
 
 # A List of Possible Simulations
 
