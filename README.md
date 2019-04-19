@@ -1,5 +1,5 @@
 
-# A List of Possible Simulations
+# A List of Simulations
 
 ## The purpose of this list is to give an idea about how simulations have been created, based on different parameter valeus.
 
