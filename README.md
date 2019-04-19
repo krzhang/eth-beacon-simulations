@@ -40,5 +40,3 @@ Other than these simulations, I wonder if we can modify the fixed mean value of 
 *
  def timing_with_mean(faction, error_param, mean=0.5):
  """attests around 0.5 with error bar uniformly distributed within error_param"""
- 
-Also, more simualtions would be added more.
