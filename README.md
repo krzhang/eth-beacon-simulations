@@ -35,6 +35,6 @@ What we learned through simulation 1 & 2 [04/18/2019]:
   Under the value of 0.7, we could not interpret the result well since we expected to have 100% winning rate.
 3. Interpretation above is just based on an intuitive understanding. Robust statistical analysis will be updated through new data_analysis files corresponding to the simulations.
 
-Next Assginment.
+####Next Assginment.
 Create more simulation based on pessimistic and optimistic cases based on the section 5. The Equivocation Game.
 
