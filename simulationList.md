@@ -1,7 +1,6 @@
 # A List of Possible Simulations
 
-## The following list gives idea about how simulations have been created
-## based on different parameters
+## The following list gives an idea about how simulations have been created based on different parameters
 
 ## parameters:
 N(v): The number of validators
