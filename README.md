@@ -18,7 +18,11 @@
 |N(v)       |      111             |      111             |      111             |      111             |
 |Er         |    (0, 0.2)          |      0.1             |      0.1             |      0.1             |
 |R          |      1:2             |      1:2             |      1:2             |      1:2             |
+<<<<<<< HEAD
 |T(h)       |      0.5             |      0.5             |      0.5             | 0.5,0.6,0.7,0.8,0.9  |
+=======
+|T(h)       |      0.5             |      0.5             |      0.5             | [0.5, 0.6, ..., 0.9] |
+>>>>>>> 160ec7fc5eec00079eab7ad83ab71f66b0efcea8
 |T(d)       |      0.5             | [0.1, 0.3, ..., 0.9] |      0.5             |      0.5             |
 |Tl         |      0.3             |      0.3             |    0.3, 0.4, 0.5     |      0.3             |
 
@@ -33,6 +37,7 @@ What we learned through simulation 1 & 2 [04/18/2019]:
   Under the value of 0.9, the winning rate is 100% since dishonest validators' votes
   coming almost at the end do not affect to the result.
   Under the value of 0.7, we could not interpret the result well since we expected to have 100% winning rate.
+<<<<<<< HEAD
 
 Simulation 3 & 4 would be the next assignment.
 Other than these simulations, I wonder if we can modify the fixed mean value of 0.5 to another value inside of the function as the following.
@@ -40,3 +45,12 @@ Other than these simulations, I wonder if we can modify the fixed mean value of 
  """attests around 0.5 with error bar uniformly distributed within error_param"""
  
 Also, more simualtions would be added more.
+=======
+3. Interpretation above is just based on an intuitive understanding. Robust statistical analysis will be updated through new data_analysis files corresponding to the simulations.
+
+Simulation 3 & 4 would be the next assignment.
+Other than these simulations, I wonder if we can modify the fixed mean value of 0.5 to another value inside of the following function definition.
+*
+ def timing_with_mean(faction, error_param, mean=0.5):
+ """attests around 0.5 with error bar uniformly distributed within error_param"""
+>>>>>>> 160ec7fc5eec00079eab7ad83ab71f66b0efcea8
