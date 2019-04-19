@@ -33,7 +33,7 @@ What we learned through simulation 1 & 2 [04/18/2019]:
   Under the value of 0.9, the winning rate is 100% since dishonest validators' votes
   coming almost at the end do not affect to the result.
   Under the value of 0.7, we could not interpret the result well since we expected to have 100% winning rate.
-3. What we learned as above is just based on intuitive interpretaion. Robust statistical analysis will be updated through new files corresponding to simulations.
+3. What we learned as above is just based on intuitive interpretaion. Robust statistical analysis will be updated through new data_analysis files corresponding to simulations.
 
 Simulation 3 & 4 would be the next assignment.
 Other than these simulations, I wonder if we can modify the fixed mean value of 0.5 to another value inside of the function as the following.
