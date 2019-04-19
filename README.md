@@ -13,14 +13,14 @@
 6. Tl:   Time latency.
 
 ## A list of tables for simulations with different parameter values
-|Parameters | Simulation 1         | Simulation 2         | Simulation 3         | Simulation 4         |
-|:---------:|:--------------------:|:--------------------:|:--------------------:|:--------------------:|
-|N(v)       |      111             |      111             |      111             |      111             |
-|Er         |    (0, 0.2)          |      0.1             |      0.1             |      0.1             |
-|R          |      1:2             |      1:2             |      1:2             |      1:2             |
-|T(h)       |      0.5             |      0.5             |      0.5             | [0.5, 0.6, ..., 0.9] |
-|T(d)       |      0.5             | [0.1, 0.3, ..., 0.9] |      0.5             |      0.5             |
-|Tl         |      0.3             |      0.3             |    0.3, 0.4, 0.5     |      0.3             |
+|Parameters | Simulation 0         | Simulation 1         | Simulation 2         | Simulation 3         | Simulation 4       |
+|:---------:|:--------------------:|:--------------------:|:--------------------:|:--------------------:|:------------------:|
+|N(v)       |      111             |      111             |      111             |      111             |      111           |
+|Er         |      0.1             |    (0, 0.2)          |      0.1             |      0.1             |      0.1           |
+|R          |      1:2             |      1:2             |      1:2             |      1:2             |      1:2           |
+|T(h)       |      0.5             |      0.5             |      0.5             |      0.5             |[0.5, 0.6, ..., 0.9]|
+|T(d)       |      0.5             |      0.5             | [0.1, 0.3, ..., 0.9] |      0.5             |      0.5           |
+|Tl         |      0.3             |      0.3             |      0.3             |    0.3, 0.4, 0.5     |      0.3           |
 
 What we learned through simulation 1 & 2 [04/18/2019]:
 1. We ran the simulations with values of 0.05, 0.1, and 0.15 for error rate that is
