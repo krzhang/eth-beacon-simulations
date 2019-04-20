@@ -11,19 +11,24 @@
 5. T(d): A time for dishonest validators to vote.
 6. Tl:   Time latency.
 
-## A list of tables for simulations with different parameter values
-|Parameters | Simulation 0         | Simulation 1         | Simulation 2         | Simulation 3         | Simulation 4       |
+## A list of tables of simulations with different parameter values for pessimistic cases
+|Parameters | Simulation 1         | Simulation 2         | Simulation 3         | Simulation 4         | Simulation 5       |
 |:---------:|:--------------------:|:--------------------:|:--------------------:|:--------------------:|:------------------:|
-|N(v)       |      111             |      111             |      111             |      111             |      111           |
-|Er         |      0.1             |    (0, 0.2)          |      0.1             |      0.1             |      0.1           |
-|R          |      1:2             |      1:2             |      1:2             |      1:2             |      1:2           |
-|T(h)       |      0.5             |      0.5             |      0.5             |      0.5             |[0.5, 0.6, ..., 0.9]|
-|T(d)       |      0.5             |      0.5             | [0.1, 0.3, ..., 0.9] |      0.5             |      0.5           |
-|Tl         |      0.3             |      0.3             |      0.3             |    0.3, 0.4, 0.5     |      0.3           |
+|N(v)       |      111             |      111             |      111             |                      |                    |
+|Er         |      0.1             |    (0, 0.2)          |      0.1             |                      |                    |
+|R          |      1:2             |      1:2             |      1:2             |                      |                    |
+|T(h)       |      0.5             |      0.5             |      0.5             |                      |                    |
+|T(d)       |      0.5             | [0.5, 0.6, ..., 0.9] |      0.5             |                      |                    |
+|Tl         |      0.5             |      0.3             |      0.3             |                      |                    |
 
-1. Tl is a lot bigger than Er.
+1. Tl is a lot bigger than Er (Two cases).
   - T(d) = T(h)
   - T(d) > T(h)
+2. The equal delay (time latency) for both honest and dishonest (One case).
+  - Instead of f.timings = timing_with_mean(f, error_param, aim-delay_param), we will have f.timings = timing_with_mean(f, error_param, aim)
+ 
+  
 
 #### Next Assginment.
-Create more simulation based on pessimistic and optimistic cases based on the section 5. The Equivocation Game.
+1. simulate casee, analyze, and interpret data.
+2. create more simulations if needed.
