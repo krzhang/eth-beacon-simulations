@@ -30,5 +30,5 @@
   
 
 #### Next Assginment.
-1. simulate casee, analyze, and interpret data.
+1. simulate cases, analyze, and interpret data.
 2. create more simulations if needed.
