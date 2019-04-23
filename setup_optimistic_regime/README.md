@@ -1,4 +1,4 @@
-# Simulation cases for Optimistic Regime [delay(time latency) = error rate = 0]
+# Simulation cases for Optimistic Regime
 [All contents can be modified or more simulations can be added.]
 
 ## The purpose of this list is to give an idea about how simulations have been created, based on different parameter values.
@@ -21,7 +21,7 @@
 |T(d)       |      0.5             |                      |                  |                      |                    |
 |Tl         |       0              |                      |                  |                      |                    |
 
-1. Tl is equal to Er and Tl = Er = 0.
+1. Delay (=time latency) = error rate = 0
   - Tl = Er = 0 --> Simulation 1
  
   
