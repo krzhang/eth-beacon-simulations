@@ -23,7 +23,7 @@
 
 1. Tl is a lot bigger than Er (Two cases).
   - T(d) = T(h) --> Simulation 1
-  - T(d) > T(h) --> --> Simulation 2
+  - T(d) > T(h) --> Simulation 2
 2. The equal delay (time latency) for both honest and dishonest (One case). --> Simulation 3
   - Instead of f.timings = timing_with_mean(f, error_param, aim-delay_param), we will have f.timings = timing_with_mean(f, error_param, aim)
  
