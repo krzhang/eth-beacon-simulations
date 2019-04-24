@@ -11,7 +11,7 @@
 5. T(d): A time for dishonest validators to vote.
 6. Tl:   Time latency.
 
-## A list of tables of simulations with different parameter values for pessimistic cases
+## A list of tables of simulations with different parameter values for optimistic cases
 |Parameters | Simulation 1         | Simulation 2         | Simulation 3         | Simulation 4         | Simulation 5       |
 |:---------:|:--------------------:|:--------------------:|:--------------------:|:--------------------:|:------------------:|
 |N(v)       |      111             |                      |                  |                      |                    |
