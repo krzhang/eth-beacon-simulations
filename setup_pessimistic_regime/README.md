@@ -31,14 +31,10 @@
 4. Simulation 5 (Tl = 0.5, high time latency)
   - Using the following inequality for a valid interval of voting time:
     [aim - delay_param] - error_param > 0
-  - Er = 0.05
-    T(d) = [0.6, 0.7, 0.8, 0.9]
-  - Er = 0.1
-    T(d) = [0.7, 0.8, 0.9]
-  - Er = 0.15
-    T(d) = [0.7, 0.8, 0.9]
-  - Er = 0.2
-    T(d) = [0.8, 0.9]
+  - Er = 0.05, T(d) = [0.6, 0.7, 0.8, 0.9]
+  - Er = 0.1,  T(d) = [0.7, 0.8, 0.9]
+  - Er = 0.15, T(d) = [0.7, 0.8, 0.9]
+  - Er = 0.2,  T(d) = [0.8, 0.9]
 
 #### Next Assginment.
 1. simulate cases, analyze, and interpret data.
